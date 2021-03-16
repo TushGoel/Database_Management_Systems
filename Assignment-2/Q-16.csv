@@ -1,0 +1,1929 @@
+Disease Class,Disease/Phenotype,Population Type,Type Of Association,No. of Records,Latest Year of Occurence
+METABOLIC,"diabetes, type 2",Japanese,Y,30,2005
+METABOLIC,"diabetes, type 2",Chinese,Y,25,2004
+NEUROLOGICAL,Alzheimer's Disease,Chinese,Y,22,2005
+IMMUNE,"diabetes, type 1",Japanese,Y,19,2004
+CARDIOVASCULAR,hypertension,Chinese,Y,19,2004
+METABOLIC,"diabetes, type 2",caucasian,Y,18,2007
+CANCER,lung cancer,Chinese,Y,18,2005
+CANCER,prostate cancer,Japanese,Y,18,2005
+PSYCH,schizophrenia,Japanese,Y,17,2005
+PSYCH,schizophrenia,chinese,Y,16,2005
+CARDIOVASCULAR,hypertension,Japanese,Y,16,2005
+IMMUNE,periodontitis,Japanese,Y,15,2004
+IMMUNE,asthma,Chinese,Y,14,2005
+IMMUNE,rheumatoid arthritis,Japanese,Y,13,2005
+IMMUNE,asthma,Japanese,Y,13,2005
+CARDIOVASCULAR,"atherosclerosis, coronary",Chinese,Y,12,2005
+CANCER,colorectal cancer,Japanese,Y,11,2005
+METABOLIC,bone density,Japanese,Y,11,2005
+CANCER,breast cancer,Chinese,Y,11,2005
+IMMUNE,systemic lupus erythematosus,Japanese,Y,10,2002
+CANCER,head and neck cancer lung cancer,Caucasian,Y,10,2007
+METABOLIC,obesity,Japanese,Y,9,2005
+NEUROLOGICAL,Alzheimer's Disease,Italian,Y,9,2007
+NEUROLOGICAL,Parkinson's disease,Chinese,Y,9,2004
+CANCER,breast cancer,Caucasian,Y,9,2007
+NEUROLOGICAL,Alzheimer's Disease,Japanese,Y,9,2005
+CANCER,stomach cancer,Chinese,Y,8,2005
+CANCER,lung cancer,Japanese,Y,8,2005
+IMMUNE,chronic obstructive pulmonary disease/COPD,Chinese,Y,8,2005
+IMMUNE,periodontitis,German,Y,8,2002
+CARDIOVASCULAR,cardiovascular disease,French;Israeli,Y,8,2006
+CARDIOVASCULAR,hypertension,Caucasian,Y,8,2005
+IMMUNE,"diabetes, type 1",Caucasian,Y,7,2006
+CANCER,Lung cancer,caucasian,Y,7,2007
+IMMUNE,atopy,German,Y,7,2004
+IMMUNE,asthma,Korean,Y,7,2006
+IMMUNE,rheumatoid arthritis,Chinese,Y,7,2005
+CARDIOVASCULAR,myocardial infarction,Japanese,Y,7,2004
+IMMUNE,Graves' disease,Japanese,Y,6,2005
+IMMUNE,"diabetes, type 1",Chinese,Y,6,2001
+VISION,"glaucoma, primary open-angle",Indian,Y,6,2007
+IMMUNE,vitiligo,Saudi,Y,6,2006
+IMMUNE,periodontitis,Chinese,Y,6,2005
+PSYCH,schizophrenia,Korean,Y,6,2006
+CARDIOVASCULAR,Coronary Artery Disease,Japanese,Y,6,2002
+METABOLIC,bone density,Korean,Y,6,2007
+CANCER,bladder cancer,Caucasian,Y,6,2007
+CARDIOVASCULAR,"atherosclerosis, coronary",Turkish,Y,6,2006
+REPRODUCTION,endometriosis,Japanese,Y,6,2005
+CARDIOVASCULAR,coronary heart disease,Chinese,Y,5,2002
+IMMUNE,rheumatoid arthritis,Korean,Y,5,2005
+IMMUNE,systemic lupus erythematosus,Caucasian,Y,5,2003
+RENAL,nephropathy,Japanese,Y,5,2003
+METABOLIC,osteoporosis,Chinese,Y,5,2003
+METABOLIC,obesity,caucasian,Y,5,2007
+IMMUNE,psoriasis,Chinese,Y,5,2004
+IMMUNE,Total IgE,German,Y,5,2002
+IMMUNE,"diabetes, type 1",Czech,Y,5,2004
+IMMUNE,lupus erythematosus,Chinese,Y,5,2004
+IMMUNE,Crohn's disease,Caucasian,Y,5,2006
+METABOLIC,"diabetes, gestational",Scandinavian,Y,5,2007
+IMMUNE,"diabetes, type 1",Danish,Y,5,2007
+METABOLIC,"cholesterol, HDL cholesterol, LDL",Caucasian;German,Y,5,2006
+REPRODUCTION,endometriosis,Korean,Y,5,2007
+CARDIOVASCULAR,myocardial infarct,Japanese,Y,5,2005
+NEUROLOGICAL,Alzheimer's Disease,Caucasian,Y,5,2004
+INFECTION,sepsis,Caucasian,Y,5,2006
+IMMUNE,Crohn's disease ulcerative colitis,Italian,Y,4,2007
+VISION,"glaucoma, primary open-angle",Southern Chinese,Y,4,2005
+IMMUNE,"diabetes, type 1",Filipinos,Y,4,2003
+IMMUNE,Graves' disease,Caucasian,Y,4,2007
+CANCER,upper aerodigestive tract cancer,"Romania, Poland, Russia, Slovakia and the Czech Republic",Y,4,2006
+METABOLIC,"diabetes, type 2",African American,Y,4,2005
+IMMUNE,periodontitis,Caucasian,Y,4,2006
+CANCER,Colorectal Cancer,Spanish,Y,4,2004
+METABOLIC,"cholesterol, HDL",Korean,Y,4,2007
+CANCER,esophageal cancer,Chinese,Y,4,2004
+CANCER,leukemia,Chinese,Y,4,2005
+INFECTION,tuberculosis,Chinese,Y,4,2005
+METABOLIC,obesity,French,Y,4,2004
+INFECTION,HIV,Caucasian,Y,4,2006
+CARDIOVASCULAR,Vascular Disease,Caucasian,Y,4,2001
+METABOLIC,bone density,Chinese,Y,4,2005
+PSYCH,schizophrenia,Caucasian,Y,4,2007
+RENAL,nephrotic syndrome,European,Y,4,2007
+CARDIOVASCULAR,stroke,Chinese,Y,4,2001
+IMMUNE,Asthma,Caucasian,Y,4,2000
+IMMUNE,Crohn's disease; ulcerative colitis,Japanese,Y,4,2005
+CANCER,breast cancer,German,Y,4,2006
+CARDIOVASCULAR,myocardial infarct,Japanese;European,Y,4,2007
+CARDIOVASCULAR,hypertension,African American,Y,4,2005
+CANCER,colorectal cancer,Caucasian,Y,4,2007
+CARDIOVASCULAR,cardiomyopathy,Chinese,Y,4,2004
+CANCER,prostate cancer,African American,Y,4,2005
+METABOLIC,bone mineral density,Japanese,Y,4,2003
+METABOLIC,osteoarthritis,Japanese;Caucasian,Y,4,2006
+NEUROLOGICAL,narcolepsy,Japanese;Korean,Y,4,2006
+IMMUNE,multiple sclerosis,Japanese,Y,4,2005
+METABOLIC,cholesterol,Japanese,Y,4,2004
+IMMUNE,Asthma,German,Y,4,2007
+CHEMDEPENDENCY,nicotine dependence,European,Y,4,2007
+IMMUNE,psoriasis,Caucasian;German,Y,4,2007
+IMMUNE,"diabetes, type 1",Finnish,Y,4,2006
+IMMUNE,rheumatoid arthritis,Spanish,Y,4,2004
+IMMUNE,hematology indices,Korean,Y,3,2006
+METABOLIC,"diabetes, type 2",French,Y,3,2007
+METABOLIC,Lp(a),Czech,Y,3,2002
+METABOLIC,"triglycerides; atherosclerosis, coronary",Chinese,Y,3,2005
+CARDIOVASCULAR,mitral valve prolapse,Chinese,Y,3,2004
+CANCER,prostate cancer,Caucasian,Y,3,2004
+METABOLIC,bone mineral density,Chinese,Y,3,2003
+IMMUNE,systemic lupus erythematosus,Chinese,Y,3,2003
+IMMUNE,"pancreatitis, autoimmune; pancreatitis, chronic calcifying",Japanese,Y,3,2002
+CANCER,prostate cancer,Italian,Y,3,2002
+METABOLIC,polycystic ovary syndrome,caucasian,Y,3,2006
+METABOLIC,glucose tolerance,Indian,Y,3,2004
+IMMUNE,multiple sclerosis,Serbian,Y,3,2006
+HEMATOLOGICAL,fibrinogen,European,Y,3,2006
+DEVELOPMENTAL,hypospadias,Chinese,Y,3,2004
+CHEMDEPENDENCY,alcoholism,Japanese,Y,3,2004
+INFECTION,HIV,Chinese,Y,3,2004
+IMMUNE,inflammatory bowel disease,Japanese,Y,3,2005
+CANCER,prostate carcinoma,Japanese,Y,3,2003
+METABOLIC,insulin,Japanese,Y,3,2005
+HEMATOLOGICAL,thalassemia,Chinese,Y,3,2004
+IMMUNE,Graves' disease,Caucasian;Korean;Thai;Asian,Y,3,2006
+PSYCH,personality disorders,Caucasian,Y,3,2007
+METABOLIC,obesity,Chinese,Y,3,2004
+CHEMDEPENDENCY,alcoholism,Korean,Y,3,2007
+INFECTION,malaria,Thai,Y,3,2002
+CANCER,stomach cancer,Japanese,Y,3,2005
+CANCER,prostate cancer,Polish,Y,3,2006
+METABOLIC,bone density,Caucasian,Y,3,2007
+IMMUNE,atopy,Finnish,Y,3,2003
+NEUROLOGICAL,Parkinson's disease,Japanese,Y,3,2001
+CARDIOVASCULAR,myocardial infarct,Italian,Y,3,2007
+PHARMACOGENOMIC,warfarin sensitivity,Asian,Y,3,2006
+IMMUNE,celiac disease,European,Y,3,2006
+NEUROLOGICAL,Alzheimer's Disease,Korean,Y,3,2006
+METABOLIC,hypertriglyceridemia,Chinese,Y,3,2003
+METABOLIC,lipoprotein,"non-Hispanic, Hispanic",Y,3,2002
+IMMUNE,"diabetes, type 1",Tunisian,Y,3,2002
+UNKNOWN,"cirrhosis, biliary primary",Chinese,Y,3,2004
+CANCER,breast cancer,Korean,Y,3,2007
+CANCER,breast cancer,Canadian,Y,3,2001
+OTHER,systemic sclerosis,Japanese,Y,3,2001
+CARDIOVASCULAR,angina,Chinese,Y,3,2004
+PSYCH,bipolar disorder,Japanese,Y,3,2004
+IMMUNE,atopic dermatitis,Japanese,Y,3,2003
+RENAL,minimal change nephrotic syndrome,Japanese,Y,3,2003
+CARDIOVASCULAR,"atherosclerosis, coronary",Caucasian,Y,3,2007
+IMMUNE,ulcerative colitis,Japanese,Y,3,2004
+CHEMDEPENDENCY,nicotine dependence,African American;European,Y,3,2007
+CARDIOVASCULAR,"atherosclerosis, coronary",Korean,Y,3,2007
+CANCER,testicular cancer,Hispanic Caucasian;non-Hispanic,Y,3,2007
+CARDIOVASCULAR,Essential Hypertension,Chinese,Y,3,2001
+CANCER,prostatic hyperplasia; prostate cancer,Japanese,Y,3,2005
+IMMUNE,asthma,Indian,Y,3,2004
+CARDIOVASCULAR,"blood pressure, arterial",Japanese,Y,3,2006
+VISION,glaucoma,Indian,Y,3,2006
+PSYCH,attention deficit hyperactivity disorder,Chinese,Y,3,2006
+IMMUNE,celiac disease,Spanish,Y,3,2003
+IMMUNE,Asthma,Australian,Y,3,2005
+UNKNOWN,retinitis pigmentosa,Chinese,Y,3,2005
+IMMUNE,asthma,Iranian,Y,3,2007
+CHEMDEPENDENCY,alcohol abuse,European,Y,3,2007
+RENAL,"nephropathy, diabetic",Chinese,Y,3,2001
+CARDIOVASCULAR,hypertension,white,Y,3,2002
+METABOLIC,obesity,spanish,Y,3,2004
+IMMUNE,Lupus,Japanese,Y,3,2003
+PSYCH,schizophrenia,Swedish,Y,3,2003
+HEMATOLOGICAL,factor VIII and factor IX genes,Thai and Western European,Y,3,1994
+IMMUNE,systemic lupus erythematosus,German,Y,3,2002
+IMMUNE,Behcet's Disease,Korean,Y,3,2002
+NEUROLOGICAL,narcolepsy,Chinese,Y,3,2003
+INFECTION,tuberculosis,Japanese,Y,3,2003
+CARDIOVASCULAR,"atherosclerosis, coronary",Italian,Y,3,2006
+VISION,macular degeneration,European,Y,3,2007
+CARDIOVASCULAR,"EKG, abnormal",Caucasian;European,Y,3,2007
+METABOLIC,Adiposity and Abdominal Obesity,Quebec,Y,3,2001
+CARDIOVASCULAR,"heart disease, ischemic",Chinese,Y,3,2005
+CHEMDEPENDENCY,alcohol-dependence,Scottish,Y,3,1999
+IMMUNE,allergic rhinitis,Chinese,Y,3,2004
+CHEMDEPENDENCY,"alcohol abuse cirrhosis, alcoholic pancreatitis, chronic",Polish,Y,3,2007
+IMMUNE,rhinitis,Korean,Y,3,2006
+IMMUNE,Asthma,Japanese. British,Y,3,2001
+IMMUNE,autoimmune thyroid disease,Japanese,Y,3,2004
+CARDIOVASCULAR,cerebrovascular disease,Japanese,Y,3,2004
+CANCER,prostate cancer,"European American, African American",Y,3,2005
+INFECTION,Severe Malaria,Gambia,Y,3,2004
+PSYCH,autism,Japanese,Y,3,2005
+PSYCH,major and bipolar depressives,Italian (Caucasian),Y,3,2003
+REPRODUCTION,endometriosis,Chinese,Y,3,2002
+METABOLIC,"diabetes, type 2",Pima Indian,Y,3,2005
+OTHER,uterine fibroids,Caucasian,Y,2,2006
+METABOLIC,"diabetes, type 2",European;Irish,Y,2,2006
+IMMUNE,IgA nephropathy,Japanese,Y,2,1999
+IMMUNE,pancreatitis,Italian,Y,2,2003
+IMMUNE,"diabetes, type 1",Iranian,Y,2,2006
+REPRODUCTION,menarche; menopause,Japanese,Y,2,2003
+CANCER,breast cancer,Turkish,Y,2,2004
+CANCER,lung cancer; esophageal cancer,Chinese,Y,2,2003
+METABOLIC,warfarin sensitivity,Chinese,Y,2,2005
+CANCER,cervical cancer,Japanese,Y,2,2005
+IMMUNE,"thyroiditis, Hashimoto's",Italian,Y,2,2001
+IMMUNE,"hepatitis, autoimmune",Japanese,Y,2,2005
+IMMUNE,Psoriasis,Caucasian,Y,2,1999
+IMMUNE,Atopy (total & specific IgE),Chinese,Y,2,2001
+CANCER,gastric cancer,Chinese,Y,2,2002
+METABOLIC,"diabetes, type 2",Italian,Y,2,2006
+VISION,glaucoma,Eastern Chinese,Y,2,2002
+INFECTION,tuberculosis,Indian,Y,2,2006
+IMMUNE,Sjogren's syndrome,French,Y,2,2004
+IMMUNE,Rheumatoid Arthritis,French Caucasian population,Y,2,2004
+METABOLIC,obesity,Pima Indians,Y,2,1998
+AGING,Longevity,Russian,Y,2,2001
+NEUROLOGICAL,Parkinson's disease,Italian,Y,2,2007
+PSYCH,schizophrenia,German;Irish,Y,2,2006
+IMMUNE,psoriasis,Chinese;Caucasian,Y,2,2006
+CANCER,stomach cancer,Caucasian;Korean;Asian,Y,2,2007
+CARDIOVASCULAR,"hypertension, pulmonary arterial",Korean,Y,2,2007
+PSYCH,suicide,Caucasian;German,Y,2,2007
+NEUROLOGICAL,ALS/amyotrophic lateral sclerosis,Polish,Y,2,2006
+CARDIOVASCULAR,Blood Pressure,Caucasian,Y,2,2000
+CHEMDEPENDENCY,alcoholism,Mexican,Y,2,2004
+METABOLIC,obesity,Finnish,Y,2,2004
+CARDIOVASCULAR,Myocardial Infarction,Italian,Y,2,2001
+METABOLIC,obesity,Swedish,Y,2,2005
+METABOLIC,"diabetes, type 2",population,Y,2,2003
+RENAL,"nephropathy, diabetic",Japanese,Y,2,2002
+IMMUNE,systemic lupus erythematosus,Spanish,Y,2,2004
+CARDIOVASCULAR,coronary artery disease,Korean,Y,2,2001
+CANCER,gastric cancer,Japanese,Y,2,2002
+REPRODUCTION,"pregnancy loss, recurrent",Caucasian,Y,2,2005
+UNKNOWN,Vogt-Koyanagi-Harada syndrome,Chinese,Y,2,2000
+IMMUNE,Sjogren's syndrome,Colombian,Y,2,2002
+INFECTION,malaria,West African,Y,2,1998
+CANCER,stomach cancer,Mexican,Y,2,2007
+METABOLIC,hyperlipidemia,Chinese,Y,2,2004
+NEUROLOGICAL,Alzheimer's Disease,Finnish,Y,2,2004
+CANCER,esophageal cancer; gastric cardia cancer,Chinese,Y,2,2003
+PSYCH,Schizophrenia,African Americans,Y,2,2004
+CANCER,prostate cancer,Finnish,Y,2,2003
+DEVELOPMENTAL,neural tube defects,Chinese,Y,2,2005
+METABOLIC,bone mass,Korean,Y,2,2003
+CANCER,pancreatic cancer,Caucasian,Y,2,2007
+INFECTION,hepatitis B,Korean,Y,2,2006
+CHEMDEPENDENCY,nicotine,European,Y,2,2006
+PHARMACOGENOMIC,warfarin sensitivity,Japanese;Caucasian,Y,2,2006
+PSYCH,attention deficit hyperactivity disorder,European;Asian,Y,2,2006
+CANCER,prostate cancer,African American;Caucasian,Y,2,2007
+IMMUNE,"hypothyroidism, goitrous juvenile autoimmune",Indian,Y,2,2007
+HEMATOLOGICAL,Langerhans cell histiocytosis,Italian,Y,2,2006
+CANCER,lung cancer,Korean,Y,2,2006
+NEUROLOGICAL,dystonia,German;Icelandic,Y,2,2006
+METABOLIC,"cholesterol, HDL",Japanese,Y,2,2004
+METABOLIC,"diabetes, type 2",Caucasians,Y,2,2001
+CARDIOVASCULAR,hypertension,Russian,Y,2,2002
+IMMUNE,pancreatitis,Japanese,Y,2,2004
+METABOLIC,"diabetes, type 2",Mexican,Y,2,2004
+INFECTION,"hepatitis C, chronic",Japanese,Y,2,2004
+INFECTION,HIV,Thai,Y,2,2004
+IMMUNE,"autoimmune thyroid disease; thyroid disease, autoimmune",Japanese,Y,2,2000
+CANCER,Breast Cancer,Japanese,Y,2,2002
+REPRODUCTION,menopause,Caucasian,Y,2,2006
+CARDIOVASCULAR,emphysema,Japanese,Y,2,2003
+CARDIOVASCULAR,cerebral infarct,Chinese,Y,2,2004
+IMMUNE,systemic lupus erythematosus,Thai,Y,2,2002
+CANCER,cervical cancer,Senegalese,Y,2,2001
+INFECTION,"malaria, plasmodium falciparum",Ghana,Y,2,2004
+IMMUNE,Total serum IgE,Dutch,Y,2,2001
+METABOLIC,obesity,Mexican,Y,2,2005
+IMMUNE,multiple sclerosis,Russian,Y,2,2003
+IMMUNE,"diabetes, type 1",Swedish Caucasians,Y,2,2003
+INFECTION,tuberculosis,Gambian,Y,2,2002
+DEVELOPMENTAL,neural tube defects,Italian,Y,2,2003
+OTHER,FEV1,U.S. Caucasian,Y,2,2000
+IMMUNE,"periodontitis, early-onset",Japanese,Y,2,2001
+CARDIOVASCULAR,acute coronary syndrome,Korean,Y,2,2004
+IMMUNE,"sclerosis, systemic",Korean,Y,2,2007
+METABOLIC,PAH-DNA adducts,African American;Caucasian,Y,2,2007
+PSYCH,bipolar disorder,European,Y,2,2007
+CARDIOVASCULAR,"atherosclerosis, coronary cholesterol, HDL",Quebec,Y,2,2007
+IMMUNE,psoriasis,Finnish,Y,2,2007
+INFECTION,"leishmaniasis, cutaneous",Iranian,Y,2,2006
+INFECTION,"herpesvirus, Kaposi sarcoma-associated",Italian,Y,2,2006
+PHARMACOGENOMIC,irinotecan pharmacokinetics,Asian,Y,2,2007
+DEVELOPMENTAL,congenital anomalies; renal disease,Italian,Y,2,2004
+IMMUNE,Asthma,European,Y,2,2004
+METABOLIC,Type 2 Diabetes (Retinopathy),Asian Indian population,Y,2,2002
+IMMUNE,asthma,Swedish,Y,2,2004
+INFECTION,"malaria, plasmodium falciparum",Thai,Y,2,2003
+CANCER,breast cancer,Indian,Y,2,2004
+HEMATOLOGICAL,factor VII,Tunisian,Y,2,2005
+CHEMDEPENDENCY,alcohol abuse,Taiwanese,Y,2,2002
+OTHER,"hearing loss, sensorineural nonsyndromic",Danish,Y,2,2004
+INFECTION,tuberculosis,Thai,Y,2,2002
+IMMUNE,"diabetes, type 1",Korean,Y,2,2003
+NEUROLOGICAL,Alzheimer's disease; dementia,Taiwanese,Y,2,2005
+IMMUNE,arthritis,Spanish,Y,2,2003
+METABOLIC,obesity,Pima Indian,Y,2,2005
+CARDIOVASCULAR,carotid atherosclerosis,Japanese,Y,2,2004
+IMMUNE,chronic pancreatitis,German,Y,2,2000
+METABOLIC,"diabetes, type 2",Danish,Y,2,2005
+IMMUNE,Crohn's disease,Japanese,Y,2,2000
+CARDIOVASCULAR,"blood pressure, arterial",French,Y,2,2006
+CHEMDEPENDENCY,alcohol-related phenotypes nicotine,Caucasian,Y,2,2007
+IMMUNE,asthma,Russian,Y,2,2007
+IMMUNE,allergic rhinitis dermatitis and eczema fatty acid,European;German,Y,2,2006
+IMMUNE,periodontitis,Brazilian,Y,2,2006
+IMMUNE,Crohn's disease ulcerative colitis,Jewish,Y,2,2007
+UNKNOWN,bronchopulmonary aspergillosis pulmonary aspergillosis,Caucasian,Y,2,2007
+CANCER,breast cancer,non-Hispanic,Y,2,2006
+NEUROLOGICAL,ALS/amyotrophic lateral sclerosis,Caucasian,Y,2,2006
+METABOLIC,"diabetes, type 2; nephropathy in other diseases",Japanese,Y,2,2003
+CARDIOVASCULAR,Stroke,American,Y,2,2002
+METABOLIC,bone mass,Caucasian,Y,2,2002
+NEUROLOGICAL,"seizures, febrile",Chinese,Y,2,2005
+IMMUNE,"diabetes, type 1",Russian,Y,2,2005
+IMMUNE,Graves disease,caucasian,Y,2,1995
+UNKNOWN,"cirrhosis, biliary primary; hepatitis, autoimmune",Chinese,Y,2,2004
+IMMUNE,multiple sclerosis,Spanish,Y,2,2004
+IMMUNE,Total IgE,Japanese,Y,2,2000
+CHEMDEPENDENCY,smoking behavior,Japanese,Y,2,2005
+UNKNOWN,vesicoureteral reflux,Taiwanese,Y,2,2004
+IMMUNE,Atopy,Japanese,Y,2,2004
+METABOLIC,"diabetes, type 2",Korean,Y,2,2005
+CARDIOVASCULAR,coronary artery disease,patients from the Women's Ischemia Syndrome Evaluation study,Y,2,2003
+METABOLIC,ossification of the posterior longitudinal ligament,Japanese,Y,2,2001
+CARDIOVASCULAR,myocardial infarction,Korean,Y,2,2002
+INFECTION,dengue hemorrhagic fever,Vietnamese,Y,2,2002
+IMMUNE,Behcet's Disease,Italian,Y,2,2002
+PHARMACOGENOMIC,"cholestasis, drug-induced hepatotoxicity",Caucasian,Y,2,2007
+METABOLIC,albuminuria hypertension,Caucasian,Y,2,2006
+VISION,macular degeneration,Japanese;Chinese;Caucasian,Y,2,2007
+METABOLIC,obesity,Canadian;French,Y,2,2006
+CANCER,melanoma,non-Hispanic,Y,2,2006
+IMMUNE,"rheumatoid arthritis thyroid disease, autoimmune",Japanese;Canadian;Caucasian,Y,2,2006
+IMMUNE,lupus erythematosus,European,Y,2,2007
+IMMUNE,multiple sclerosis,European,Y,2,2006
+IMMUNE,"asthma, aspirin-induced",Korean,Y,2,2006
+METABOLIC,folate homocysteine vitamin B12,Brazilian,Y,2,2006
+IMMUNE,psoriatic arthritis,Caucasian,Y,2,2006
+PHARMACOGENOMIC,irinotecan pharmacokinetics lung cancer,Korean,Y,2,2006
+PSYCH,Bipolar Affective Disorder,Brazilian,Y,2,2000
+METABOLIC,insulin resistance,Japanese,Y,2,1999
+CARDIOVASCULAR,Coronary Artery Disease,Russians,Y,2,1998
+CARDIOVASCULAR,stroke,Japanese,Y,2,2000
+CANCER,breast cancer,Polish,Y,2,2003
+OTHER,erythrocyte catalase activity,coal miners,Y,2,2005
+IMMUNE,multiple sclerosis,German,Y,2,2005
+OTHER,smoking,Japanese,Y,2,2003
+CANCER,stomach cancer,Polish,Y,2,2005
+INFECTION,tuberculosis,Iranian,Y,2,2004
+IMMUNE,Asthma,U.K. Caucasian,Y,2,1998
+NEUROLOGICAL,Parkinson's disease,Polish,Y,2,2005
+CANCER,Urinary Bladder Cancer,German,Y,2,2001
+PSYCH,Schizophrenia,Scottish,Y,2,2006
+CANCER,esophageal cancer,Taiwanese,Y,2,2003
+METABOLIC,bone mineral density (BMD),post menopausal Japanese women,Y,2,2003
+INFECTION,tuberculosis,Korean,Y,2,2006
+METABOLIC,osteoporosis,Japanese,Y,2,1998
+IMMUNE,systemic lupus erythematosus,Mexican,Y,2,2001
+REPRODUCTION,endometriosis,Indian,Y,2,2007
+CARDIOVASCULAR,"atherosclerosis, coronary",German,Y,2,2006
+CARDIOVASCULAR,"atherosclerosis, coronary",Asian,Y,2,2007
+METABOLIC,bone density,Chinese;Caucasian,Y,2,2007
+METABOLIC,metabolic syndrome obesity,Caucasian;French,Y,2,2006
+CANCER,prostate cancer prostate specific antigen,Turkish,Y,2,2007
+METABOLIC,"body mass diabetes, type 2 insulin",Danish,Y,2,2006
+CANCER,prostate cancer,Tunisian,Y,2,2007
+CANCER,hepatitis B liver cancer,Korean,Y,2,2007
+CANCER,oral cancer,European;German;Greek,Y,2,2007
+METABOLIC,homocysteine,European,Y,2,2007
+METABOLIC,"obesity; blood pressure, arterial; sleep apnea",Chinese,Y,2,2004
+IMMUNE,"diabetes, type 1",Italy,Y,2,2004
+CANCER,breast cancer; ovarian cancer,Czech,Y,2,2000
+IMMUNE,Crohn's disease; ulcerative colitis,Italian,Y,2,2004
+INFECTION,severe RSV bronchiolitis,UK Caucasian,Y,2,2004
+IMMUNE,SPT,Hutterites,Y,2,2000
+OTHER,pancreatitis,Brazilian,Y,2,2003
+IMMUNE,"diabetes, type 1",Romanian,Y,2,2002
+CANCER,genetic polymorphism,Chinese,Y,2,2002
+PSYCH,Schizophrenia,Italian,Y,2,2006
+IMMUNE,Behcet's Disease,Iranian,Y,2,2002
+UNKNOWN,"cirrhosis, biliary primary",Caucasian,Y,2,2005
+OTHER,"diabetes, type 2; diabetes, type 1",Czech,Y,2,2005
+CANCER,Lung Cancer,French Caucasian,Y,2,1998
+NEUROLOGICAL,Parkinson's Disease,subjects enrolled in the Mutualite Sociale Agricole,Y,2,2003
+IMMUNE,"diabetes, type 1",Canadian Caucasian,Y,2,2005
+METABOLIC,bone density,Scottish,Y,2,2006
+CARDIOVASCULAR,heart failure,Russian,Y,2,2006
+CARDIOVASCULAR,"myocardial infarct stroke, ischemic",Caucasian,Y,2,2006
+NORMALVARIATION,endurance performance,Caucasian;South African,Y,2,2006
+NEUROLOGICAL,dyslexia,Finnish;German,Y,2,2007
+CANCER,breast cancer melanoma,Polish,Y,2,2006
+IMMUNE,asthma atopy,German,Y,2,2007
+METABOLIC,"diabetes, type 2 insulin metabolic syndrome",Japanese;Chinese;African American;Caucasian,Y,2,2006
+METABOLIC,bone density,Japanese;Chinese;African American;Caucasian,Y,2,2006
+CANCER,nasopharyngeal cancer,Tunisian,Y,2,2006
+IMMUNE,"hepatitis type 2, autoimmune",Caucasian,Y,2,2006
+METABOLIC,obesity,Danish,Y,2,2006
+CANCER,breast cancer,Russian,Y,2,2006
+METABOLIC,"cholesterol, HDL",Turkish,Y,2,2005
+METABOLIC,metabolic syndrome,Chinese,Y,2,2002
+CARDIOVASCULAR,hypertension,Bangladeshi,Y,2,2002
+METABOLIC,weight gain,Dutch,Y,2,2002
+METABOLIC,"diabetes, type 2",Finnish,Y,2,2006
+PSYCH,suicide,Japanese,Y,2,2005
+AGING,Osteoarthritis,Caucasian-total joint replacement,Y,2,2004
+OTHER,liver disease,Japanese,Y,2,2003
+NEUROLOGICAL,tardive dyskinesia,Chinese,Y,2,2003
+PSYCH,Tourette syndrome,Canadian,Y,2,2004
+NORMALVARIATION,insulin sensitivity and body composition,Hispanic and non-Hispanic white males,Y,2,2004
+IMMUNE,lupus erythematosus; nephropathy in other diseases,Korean,Y,2,2003
+UNKNOWN,"diabetes, type 2; nephropathy in other diseases",African American,Y,2,2004
+CANCER,prostate cancer,European,Y,2,2006
+IMMUNE,"dermatitis, atopic",Korean,Y,2,2001
+INFECTION,HIV,Zambian,Y,2,2005
+INFECTION,tuberculosis,Colombian,Y,2,2005
+CANCER,colorectal cancer,Chinese,Y,2,2005
+IMMUNE,Crohn's disease,British,Y,2,2001
+CANCER,colorectal cancer,Finnish,Y,2,2006
+IMMUNE,Lupus,Korean,Y,2,1996
+VISION,"glaucoma, normal tension",Korean,Y,2,2006
+INFECTION,tuberculosis,Caucasian,Y,2,2006
+RENAL,"diabetes, type 1 diabetic nephropathy",Swedish;Caucasian,Y,2,2007
+CARDIOVASCULAR,"diabetes, type 2 hypertension lipoprotein",Caucasian,Y,2,2007
+METABOLIC,obesity,European,Y,2,2007
+PSYCH,cognitive function,European,Y,2,2007
+CARDIOVASCULAR,"atherosclerosis, coronary",Caucasian;Italian,Y,1,2006
+PHARMACOGENOMIC,"ovarian toxicity, cyclophosphamide-related premature menopause, cyclophosphamide-related",Indian,Y,1,2007
+PHARMACOGENOMIC,tacrolimus pharmacokinetics,Korean,Y,1,2007
+INFECTION,HIV,Italian,Y,1,2006
+CHEMDEPENDENCY,heroin abuse,Spanish;European,Y,1,2007
+PSYCH,schizophrenia,African American;European,Y,1,2007
+CANCER,lung cancer,Asian,Y,1,2006
+HEMATOLOGICAL,,Indian;Asian,Y,1,2007
+IMMUNE,"atopy IgE urticaria, aspirin-intolerant",Korean,Y,1,2006
+METABOLIC,polycystic ovarian syndrome,Caucasian,Y,1,2005
+PSYCH,schizophrenia,Chinese;German,Y,1,2006
+METABOLIC,osteoarthritis,Spanish;European,Y,1,2007
+CANCER,colorectal cancer,Korean,Y,1,2007
+CANCER,cervical cancer endometrial cancer ovarian cancer,Turkish,Y,1,2007
+METABOLIC,"diabetes, type 2",Caucasian;Indian;Mexican;Mexican American;Pima Indians,Y,1,2007
+PSYCH,seasonal affective disorder,Korean,Y,1,2006
+INFECTION,"hepatitis B, chronic",Chinese;Caucasian,Y,1,2006
+INFECTION,tuberculosis,Turkish,Y,1,2006
+IMMUNE,IL18 expression level,European,Y,1,2007
+IMMUNE,rheumatoid arthritis,Caucasian;EuropeanFrench,Y,1,2007
+METABOLIC,"diabetes, type 2 hypertension",Korean,Y,1,2007
+REPRODUCTION,"infertility, female",Japanese;Finnish,Y,1,2005
+NEUROLOGICAL,essential tremor,Caucasian,Y,1,2006
+PSYCH,attention deficit hyperactivity disorder,Caucasian,Y,1,2007
+CANCER,lung cancer,Norwegian,Y,1,2006
+CANCER,oral cancer oral submucous fibrosis,Asian,Y,1,2006
+CANCER,colorectal cancer,Scottish,Y,1,2006
+CARDIOVASCULAR,"stroke, ischemic",German,Y,1,2006
+PSYCH,schizophrenia,European,Y,1,2006
+CHEMDEPENDENCY,alcohol dependence drug dependence,European;Russian,Y,1,2006
+METABOLIC,"hypothyroidism, congenital",German,Y,1,2006
+PSYCH,bipolar disorder schizophrenia,Scottish,Y,1,2007
+METABOLIC,"diabetes, type 2 fatty acid triglycerides",European,Y,1,2006
+METABOLIC,hyperglycemia insulin,Caucasian;French,Y,1,2006
+IMMUNE,asthma,Spanish;Caucasian,Y,1,2006
+METABOLIC,"anthropometric parameters diabetes, type 2 insulin",Iranian;Italian,Y,1,2007
+IMMUNE,"diabetes, type 1",non-Hispanic,Y,1,2006
+IMMUNE,C-reactive protein glycation inflammation insulin oxidative stress prostaglandin tumor necrosis factor alpha,Korean,Y,1,2007
+CARDIOVASCULAR,"heart disease, ischemic",Saudi,Y,1,2007
+INFECTION,tuberculosis,Peruvian,Y,1,2006
+PSYCH,depression,Spanish;European,Y,1,2006
+CANCER,breast cancer,Caucasian;German,Y,1,2006
+IMMUNE,"diabetes, type 1",Canadian;Caucasian,Y,1,2006
+METABOLIC,"diabetes, type 2 glucose insulin",European;Indian,Y,1,2006
+NEUROLOGICAL,Alzheimer's disease Parkinson's disease,Swedish;Caucasian; ,Y,1,2007
+IMMUNE,lupus erythematosus,Japanese;Caucasian;Korean;Vietnamese;Asian,Y,1,2006
+METABOLIC,metabolic syndrome,Indian;Mexican;Mexican American;Asian,Y,1,2006
+CARDIOVASCULAR,body mass cardiovascular risk factors lipoprotein,Canadian;French;Quebec,Y,1,2007
+IMMUNE,"diabetes, type 1 diabetic nephropathy",Irish,Y,1,2007
+IMMUNE,eczema,"Danish, UK neonates",Y,1,2008
+CARDIOVASCULAR,"heart disease, ischemic; atherosclerosis, coronary; hyperlipidemia",Chinese,Y,1,2005
+METABOLIC,drug metabolism,Japanese,Y,1,2002
+CARDIOVASCULAR,"atherosclerosis, coronary; metabolic syndrome",Japanese,Y,1,2004
+OTHER,ACEI-related cough,Chinese,Y,1,2001
+CARDIOVASCULAR,heart rate variability,African Americans,Y,1,2003
+UNKNOWN,ACE activity,Chinese,Y,1,2004
+NORMALVARIATION,human elite athletic performance,Australians of white European ancestry,Y,1,2003
+CHEMDEPENDENCY,alcohol abuse,Chinese,Y,1,2002
+METABOLIC,body mass; insulin; glucose; nervous system activity,Japanese,Y,1,2003
+IMMUNE,Steroid-requiring asthma in sedentary women,U.S. (Nurses` Health Study),Y,1,2001
+METABOLIC,Obesity,Mediterranean,Y,1,2001
+CARDIOVASCULAR,proteinuria and cardiovascular disease,Finnish,Y,1,2003
+CARDIOVASCULAR,Essential Hypertension,Tibetan,Y,1,2000
+METABOLIC,albuminuria,Chinese,Y,1,1998
+UNKNOWN,"retinopathy, diabetic",Chinese,Y,1,2001
+CANCER,esophageal cancer,Japanese,Y,1,2003
+NEUROLOGICAL,Alzheimer's Disease,Southern Brazilian,Y,1,2000
+CANCER,prostate cancer,Chinese,Y,1,2004
+NORMALVARIATION,butyrylcholinesterase activity,Turkish,Y,1,2004
+CANCER,stomach cancer; ovarian cancer,Polish,Y,1,2003
+IMMUNE,"diabetes, type 1",Irish Caucasian,Y,1,2004
+IMMUNE,Inflammatory Bowel Disease,German and British,Y,1,2001
+PSYCH,schizophrenia; alcoholism; bipolar disorder,Korean,Y,1,2004
+CHEMDEPENDENCY,alcohol dependence,Japanese,Y,1,2004
+RENAL,Renal Transplant Survival,Caucasian,Y,1,2001
+INFECTION,HIV infection,Japanese,Y,1,2001
+IMMUNE,atopy,Chinese,Y,1,2003
+IMMUNE,multiple sclerosis,central Ohio (US) cohort,Y,1,2003
+CARDIOVASCULAR,cardiovascular events in non-smokers,West of Scotaland Coronary Prevention Study,Y,1,2003
+IMMUNE,atopic dermatitis,Italian,Y,1,2001
+METABOLIC,"diabetes, type 2; insulin",Pima Indian,Y,1,2003
+IMMUNE,"diabetes, type 1",white european,Y,1,2003
+IMMUNE,Crohn's disease; ulcerative colitis,Chinese,Y,1,2004
+IMMUNE,"sclerosis, systemic",Japanese,Y,1,2002
+METABOLIC,atherosclerosis,Japanese,Y,1,2003
+IMMUNE,systemic lupus erythematosus,Taiwanese,Y,1,2003
+METABOLIC,"cholesterol, LDL; cholesterol, total",Czech,Y,1,2003
+PSYCH,bipolar disorder,Spanish,Y,1,1995
+PSYCH,novelty seeking,Japanese,Y,1,1997
+IMMUNE,pemphigus foliaceus,Tunisian,Y,1,2002
+CARDIOVASCULAR,subarachnoid hemorrhage,Dutch,Y,1,2004
+CANCER,lung cancer,non-Hispanic,Y,1,2002
+CARDIOVASCULAR,"thromboembolism, venous",Thai,Y,1,2004
+CHEMDEPENDENCY,problem drug use,White ancestral origin,Y,1,2002
+INFECTION,H. pylori infection,Japanese,Y,1,2004
+VISION,"cataract, presenile",Slovene,Y,1,2003
+OTHER,mandibular height,Chinese,Y,1,2005
+CARDIOVASCULAR,grade II hypertension,461 grade I hypertensives,Y,1,2003
+METABOLIC,"obesity; blood pressure, arterial",Caucasian,Y,1,2003
+IMMUNE,Total IgE. SPT. FEV1,Caucasian,Y,1,2000
+IMMUNE,asthma,African American,Y,1,2005
+OTHER,hereditary hemochromatosis,russian,Y,1,2003
+IMMUNE,spondyloarthropathies,Mexican,Y,1,2002
+RENAL,nephropathy in other diseases,Italian,Y,1,2003
+IMMUNE,"sclerosis, systemic",Caucasian women,Y,1,2004
+PSYCH,eating disorders,Japanese,Y,1,2001
+OTHER,weight loss,teenage girls,Y,1,2002
+METABOLIC,"body mass; diabetes, type 2",Korean,Y,1,2003
+IMMUNE,graft-versus-host disease,Japanese,Y,1,2002
+METABOLIC,body height,Dutch,Y,1,2004
+IMMUNE,asthma; dermatitis and eczema,Japanese,Y,1,2002
+METABOLIC,osteoarthritis,Rotterdam study,Y,1,2004
+CANCER,Metastatic Melanoma,tumor samples--primary melanomas and metastatic melanomas,Y,1,2003
+INFECTION,respiratory syncytial virus disease,Korean,Y,1,2002
+IMMUNE,Atopy (IgE),German,Y,1,2000
+OTHER,Respiratory Syncytial Virus (RSV),United Kingdom,Y,1,2000
+METABOLIC,bone density and spondylosis,Japanese postmenopausal women,Y,1,2002
+METABOLIC,plasma lipid and apolipoprotein levels,normal variation Rochester Minn.,Y,1,1997
+CARDIOVASCULAR,coronary heart disease,Population based cohort,Y,1,2003
+METABOLIC,"adipocyte size, large subcutaneous abdominal",Indian,Y,1,2001
+NEUROLOGICAL,Alzheimer's Disease,"US, Canada",Y,1,2000
+OTHER,palmoplantar pustulosis,Japanese,Y,1,2003
+METABOLIC,"mannose-binding lectin levels, serum",Indian,Y,1,2005
+IMMUNE,"diabetes, type 1",Basques,Y,1,2002
+OTHER,"preeclampsia; hypertension, pregnancy induced; eclampsia",Czech,Y,1,2001
+INFECTION,hepatitis C,mixed ethnic American,Y,1,2002
+CANCER,prostate cancer,families with hereditary prostate cancer and patients with non-HPC,Y,1,2003
+IMMUNE,Contact Sensitisation,Caucasian,Y,1,2000
+IMMUNE,tIgE,German. Swedish,Y,1,2001
+METABOLIC,"retinopathy, diabetic",Indian,Y,1,2002
+CANCER,esophageal squamous cell carcinoma,Chinese,Y,1,2003
+VISION,optic atrophy,Japanese,Y,1,2003
+VISION,"glaucoma, primary open-angle; glaucoma, normal tension",Japanese,Y,1,2004
+IMMUNE,systemic lupus erythematosus,European Americans and African Americans,Y,1,2004
+IMMUNE,asthma,European descent Western austrailia UK,Y,1,2003
+CARDIOVASCULAR,hypertension,African Americans,Y,1,2003
+METABOLIC,"diabetes, type 2; insulin",Japanese,Y,1,2003
+METABOLIC,"diabetes, type 2; stroke, ischemic",Chinese,Y,1,2003
+METABOLIC,metabolic syndrome,French,Y,1,2005
+NEUROLOGICAL,Creutzfeldt-Jakob disease,Korean,Y,1,2005
+CANCER,nevoid basal cell carcinoma syndrome associated,Japanese,Y,1,2003
+IMMUNE,Rheumatoid arthritis,UK Caucasian,Y,1,2005
+RENAL,diabetic nephropathy,Caucasian,Y,1,2005
+METABOLIC,"diabetes, type 2; insulin; obesity",Finnish,Y,1,2004
+METABOLIC,coronary artery disease,Caucasian,Y,1,2002
+IMMUNE,lupus nephritis,Chinese,Y,1,2001
+CANCER,esophageal cancer,South African,Y,1,2005
+PSYCH,personality traits,Japanese,Y,1,1999
+PSYCH,personality disorders,Chinese,Y,1,2004
+CANCER,"cirrhosis, alcoholic; liver cancer",French,Y,1,2005
+METABOLIC,"cholesterol; hypercholesterolemia; cholesterol, LDL; hypertriglyceridemia",Chinese,Y,1,2004
+PSYCH,schizophrenia,African American,Y,1,2005
+IMMUNE,"Graves' disease; thyroiditis, chronic lymphocytic",Japanese,Y,1,2004
+INFECTION,tuberculosis,Tunisian,Y,1,2004
+METABOLIC,Obesity- associated hypertension ???????,French Canadians,Y,1,2000
+NEUROLOGICAL,migraine,Italy,Y,1,2004
+PSYCH,mood disorder,Italian (Caucasian),Y,1,2001
+OTHER,familial amyloid polyneuropathy,Portuguese,Y,1,2005
+CANCER,renal cell carcinoma,Japanese,Y,1,2002
+METABOLIC,bone mineral density,postmenopausal women,Y,1,1997
+IMMUNE,"diabetes, type 1",Spanish,Y,1,2004
+METABOLIC,"diabetes, type 2",U.K.,Y,1,2002
+METABOLIC,osteoarthritis,Japanese,Y,1,2005
+NEUROLOGICAL,Parkinson's disease,Taiwanese,Y,1,2001
+PHARMACOGENOMIC,5-flurouracil toxicity,Portuguese,Y,1,2004
+IMMUNE,microscopic polyangiitis,Japanese,Y,1,2003
+METABOLIC,"diabetes, type 2",Jewish,Y,1,2004
+CARDIOVASCULAR,coronary artery spasm,Japanese,Y,1,2004
+IMMUNE,asthma; atopy,Japanese,Y,1,2004
+CANCER,esophageal cancer; stomach cancer,Chinese,Y,1,2005
+AGING,cognitive impairment,spanish,Y,1,2004
+RENAL,diabetic nephropathy,Korean,Y,1,2004
+METABOLIC,cholesterol; triglycerides,Chinese,Y,1,2005
+CANCER,liver cancer,Japanese,Y,1,2004
+METABOLIC,Lp(a) levels,Korean,Y,1,1998
+IMMUNE,Chinese ankylosing spondylitis patients,Chinese,Y,1,1989
+IMMUNE,SLE,Western India,Y,1,2003
+INFECTION,H. pylori infection,African,Y,1,2003
+PHARMACOGENOMIC,cyclosporine pharmacokinetics,Iranian,Y,1,2006
+OTHER,"hepatitis, toxic",Korean,Y,1,2007
+METABOLIC,adiponectin,non-Hispanic,Y,1,2006
+METABOLIC,body mass insulin,Finnish,Y,1,2006
+METABOLIC,testosterone,Caucasian,Y,1,2006
+REPRODUCTION,"infertility, male",Caucasian,Y,1,2006
+METABOLIC,"diabetes, type 2 glucose tolerance",Caucasian;Indian;Pima Indians,Y,1,2007
+PSYCH,reasoning skills,Scottish,Y,1,2006
+METABOLIC,osteoporosis,Mexican,Y,1,2006
+IMMUNE,"diabetes, type 1 rheumatoid arthritis",Caucasian;New Zealand,Y,1,2007
+IMMUNE,atopy,European;French,Y,1,2006
+CANCER,ovarian cancer,Polish;Russian,Y,1,2006
+CHEMDEPENDENCY,alcohol abuse drug dependence,African American;European,Y,1,2007
+CARDIOVASCULAR,"atherosclerosis, coronary",Caucasian;Finnish,Y,1,2006
+PHARMACOGENOMIC,ovarian toxicity,Indian,Y,1,2007
+PHARMACOGENOMIC,asthma,Korean,Y,1,2006
+IMMUNE,dermatitis and eczema,Mexican,Y,1,2006
+NEUROLOGICAL,essential tremor,French,Y,1,2006
+METABOLIC,"diabetes, type 2",Caucasian;European,Y,1,2006
+CARDIOVASCULAR,"pulmonary arterial hypertension sclerosis, systemic",Caucasian;French,Y,1,2006
+CARDIOVASCULAR,"cardiovascular disease cholesterol, LDL diabetes, type 2 triglycerides",European,Y,1,2007
+RENAL,glomerulopathy lupus nephritis,Brazilian,Y,1,2006
+PSYCH,schizophrenia,Japanese;Chinese;Caucasian;German,Y,1,2006
+PHARMACOGENOMIC,growth response to growth hormone therapy,Caucasian;European,Y,1,2007
+REPRODUCTION,preeclampsia,Caucasian,Y,1,2006
+PSYCH,schizophrenia,Spanish;Caucasian,Y,1,2006
+OTHER,lung function,non-Hispanic,Y,1,2006
+PSYCH,schizophrenia,German,Y,1,2006
+INFECTION,"hepatitis B, chronic",Thai,Y,1,2007
+CANCER,oral cancer,German;Greek,Y,1,2006
+PSYCH,autism,Hutterites,Y,1,2006
+NEUROLOGICAL,epilepsy,German,Y,1,2006
+CARDIOVASCULAR,cardiac death,Caucasian;Finnish,Y,1,2006
+NEUROLOGICAL,Parkinson's disease,Singapore,Y,1,2006
+NEUROLOGICAL,Parkinson's disease,Norwegian,Y,1,2006
+PSYCH,psychoses,European,Y,1,2006
+INFECTION,ocular Chlamydia trachomatis infection,Gambia,Y,1,2006
+IMMUNE,asthma,African American;European,Y,1,2007
+CARDIOVASCULAR,peripheral vascular disease,non-Hispanic,Y,1,2007
+PSYCH,schizophrenia,Caucasian;Icelandic;Scottish;Asian,Y,1,2006
+VISION,"glaucoma, primary open-angle",Taiwan Chinese,Y,1,2006
+METABOLIC,"diabetes, type 2",African American;European,Y,1,2007
+CARDIOVASCULAR,"stroke, ischemic",Icelandic,Y,1,2006
+NORMALVARIATION,endurance performance,Chinese;Caucasian,Y,1,2007
+IMMUNE,asthma,Caucasian;Danish,Y,1,2007
+VISION,Graves ophthalmology Graves' disease,Caucasian,Y,1,2007
+IMMUNE,"sclerosis, systemic",Indian,Y,1,2006
+METABOLIC,"body fat body mass diabetes, type 2 lipoprotein",Turkish,Y,1,2007
+PHARMACOGENOMIC,selenium,Chinese;Caucasian;Asian,Y,1,2007
+PSYCH,autism,Irish,Y,1,2005
+PSYCH,obsessive compulsive disorder,Spanish;Caucasian,Y,1,2006
+PSYCH,schizophrenia tardive dyskinesia,Polish,Y,1,2006
+METABOLIC,"diabetes, type 2",Japanese;Caucasian;Asian,Y,1,2007
+METABOLIC,body mass insulin,African American;CaucEuropean,Y,1,2006
+OTHER,duodenal ulcer gastric ulcer,Russian,Y,1,2007
+CARDIOVASCULAR,cardiomyopathy,Portuguese,Y,1,2006
+METABOLIC,leptin,Asian,Y,1,2006
+IMMUNE,kawasaki disease,Caucasian,Y,1,2006
+PHARMACOGENOMIC,warfarin sensitivity,Chinese;Indian;Asian,Y,1,2006
+NEUROLOGICAL,Parkinson's Disease,German,Y,1,2000
+CARDIOVASCULAR,"cholesterol, HDL",Japanese,Y,1,2003
+METABOLIC,body mass; insulin; lipids; obesity,Japanese,Y,1,2005
+OTHER,angiotensin-converting enzyme inhibitor-related cough,Chinese,Y,1,2001
+CARDIOVASCULAR,"atherosclerosis, coronary",Portuguese,Y,1,2004
+OTHER,BHR,UK/US Caucasian,Y,1,2002
+IMMUNE,BHR,U.K.,Y,1,2000
+METABOLIC,antioxidant status,Caucasians,Y,1,2001
+METABOLIC,insulin response to oral glucose,Japanese,Y,1,1999
+PSYCH,schizophrenia,US of northern European origin,Y,1,2004
+CHEMDEPENDENCY,alcohol abuse,Japanese,Y,1,2005
+METABOLIC,hypertriglyceridemia,Korean,Y,1,1998
+METABOLIC,triglycerides,African Americans,Y,1,2004
+CARDIOVASCULAR,coronary artery disease,Tiawanese,Y,1,1998
+CARDIOVASCULAR,myocardial infarction,Caucasian,Y,1,2002
+UNKNOWN,"diabetes, type 2; diabetic nephropathy",Chinese,Y,1,2003
+METABOLIC,"body mass; diabetes, type 2; glucose tolerance; insulin",Danish,Y,1,2004
+IMMUNE,Inflammatory Bowel Disease,European,Y,1,2002
+IMMUNE,"diabetes, type 1",Bedouin Arab family,Y,1,2003
+CARDIOVASCULAR,Myocardial Infarction,Caucasian (Asturias. northern Spain),Y,1,2001
+IMMUNE,atopy,Czech,Y,1,2003
+IMMUNE,celiac disease,Irish,Y,1,2005
+CARDIOVASCULAR,Coronary Artery Disease,Males with CAD,Y,1,2003
+CANCER,breast cancer,Jewish,Y,1,2005
+UNKNOWN,skeletal hyperostosis,Japanese,Y,1,2005
+IMMUNE,C-reactive protein,African American,Y,1,2005
+IMMUNE,autoimmune hypothyroidism,UK,Y,1,2003
+IMMUNE,"diabetes, type 1",UK,Y,1,2001
+IMMUNE,"diabetes, type 1",Alsacian,Y,1,2002
+IMMUNE,celiac disease,Dutch,Y,1,2004
+UNKNOWN,"thyroiditis, chronic lymphocytic",Japanese,Y,1,2003
+OTHER,Bone Size,Caucasian,Y,1,2001
+IMMUNE,psoriatic arthritis,Taiwanese,Y,1,2004
+CANCER,lung cancer,nonsmokers 18-84 years of age,Y,1,2005
+HEMATOLOGICAL,blood and blood forming organ disorders,Japanese,Y,1,2003
+IMMUNE,atopy,Tristan da Cunha,Y,1,2003
+PSYCH,schizophrenia,British,Y,1,1999
+PSYCH,novelty seeking,Finnish,Y,1,1999
+PSYCH,schizophrenia,Triad families,Y,1,2003
+METABOLIC,insulin; lipoprotein; lipids,Finnish,Y,1,2003
+REPRODUCTION,"infertility, male",Swedish men,Y,1,2005
+METABOLIC,increased plasma triglyceride levels,French,Y,1,2000
+METABOLIC,obesity,Pima Pima Indian,Y,1,2004
+IMMUNE,systemic lupus erythematosus; lupus nephritis,Japanese,Y,1,2001
+IMMUNE,myasthenia gravis,Dutch,Y,1,2003
+METABOLIC,"diabetes, type 2",Moscow,Y,1,2002
+OTHER,fasting plasma insulin levels,Japanese,Y,1,2000
+CARDIOVASCULAR,coronary artery disease,Japanese high risk men,Y,1,2003
+CARDIOVASCULAR,hypertension and left ventricular mass,207,Y,1,2001
+CANCER,Childhood Leukemia,Caucasian (Western Europe),Y,1,1999
+IMMUNE,pemphigus,Jewish,Y,1,2003
+IMMUNE,inflammatory myopathies,Japanese,Y,1,2002
+INFECTION,HIV; cytomegalovirus retinitis,Swedish,Y,1,2004
+OTHER,"sclerosis, systemic",Korean,Y,1,2001
+INFECTION,HIV,African women,Y,1,2004
+AGING,longevity,Danish,Y,1,2004
+PSYCH,major depressive disorder,Japanese,Y,1,2002
+METABOLIC,weight gain (antipsychotic-drug induced),Chinese Han Schizophrenics,Y,1,2002
+HEMATOLOGICAL,"aplastic anemia, acquired",Caucasian,Y,1,2004
+IMMUNE,IGF-I levels; IGFBP-3 levels,Non-Hispanic White Women.,Y,1,2005
+IMMUNE,Total serum IgE,Caucasian,Y,1,2000
+IMMUNE,rhinitis,Chinese,Y,1,2003
+IMMUNE,high interleukin-1 beta plasma levels,healthy individuals,Y,1,2000
+IMMUNE,Asthma. atopy,Japanese. British,Y,1,1995
+IMMUNE,IL-4 production,Japanese,Y,1,2002
+IMMUNE,Atopy,Hutterite,Y,1,2000
+METABOLIC,glucose intolerance,Scandinavian,Y,1,1991
+CARDIOVASCULAR,myocardial infarction; angina,Italian,Y,1,2001
+METABOLIC,bone density,white women. Japanese women,Y,1,2002
+CARDIOVASCULAR,carotid artery intima-media thickness,Heterozygotes for Familial Hypercholesterolemia,Y,1,2003
+OTHER,low hepatic lipase activity,african americans,Y,1,1998
+METABOLIC,insulin; obesity; leptin,Greek,Y,1,2004
+IMMUNE,asthma; aspirin intolerance,Australian,Y,1,2004
+METABOLIC,mannose-binding lectin levels,Australian,Y,1,2002
+IMMUNE,"diabetes, type 1",eastern India,Y,1,2002
+CARDIOVASCULAR,abdominal aortic aneurysm,Caucasian,Y,1,2003
+VISION,glaucoma,Ghana,Y,1,2002
+NEUROLOGICAL,Parkinson's Disease,Caucasian,Y,1,2000
+IMMUNE,sarcoidosis,Dutch,Y,1,2003
+OTHER,infantile hypertrophic pyloric stenosis.,white,Y,1,2004
+NEUROLOGICAL,Alzheimer's disease; cognitive function,Chinese,Y,1,2005
+METABOLIC,cortisol response to opioid blockade,normal,Y,1,2003
+VISION,glaucoma,Japanese,Y,1,2003
+IMMUNE,lupus erythematosus,Mexican,Y,1,2002
+DEVELOPMENTAL,congenital central hypoventilation syndrome,French,Y,1,2005
+REPRODUCTION,"infertility, male",French,Y,1,2005
+METABOLIC,body weight,with and without diabetes from Glasgow and Dundee,Y,1,2002
+METABOLIC,"diabetes, type 2; insulin; lipids; obesity",Pima Indian,Y,1,2003
+CARDIOVASCULAR,"thrombosis, deep vein",Irish,Y,1,2002
+METABOLIC,"bone density; height; PTH; pyridinoline, urinary",Japanese,Y,1,2002
+IMMUNE,Juvenile Idiopathic arthritis,UK Caucasian,Y,1,2005
+RENAL,nephropathy in diabetes mellitus,Caucasians,Y,1,2005
+IMMUNE,Asthma,Dutch,Y,1,2000
+CARDIOVASCULAR,hypertension; cerebral infarction,Chinese,Y,1,2001
+UNKNOWN,"bronchopulmonary dysplasia; respiratory distress syndrome, neonatal",Finnish,Y,1,2004
+RENAL,nephropathy in other diseases,Japanese,Y,1,2005
+PSYCH,bipolar and unipolar disorder,Italian (Caucasian),Y,1,2001
+PHARMACOGENOMIC,pravastatin kinetics,Chinese,Y,1,2004
+IMMUNE,Tropical calcific pancreatitis,Indian,Y,1,2002
+IMMUNE,eosinophilia,German,Y,1,2002
+CARDIOVASCULAR,Atherothrombosis,men recruited in France and Ireland,Y,1,2003
+IMMUNE,Asthma severity,U.K. Caucasian,Y,1,2001
+IMMUNE,rheumatic heart disease,Chinese,Y,1,2004
+IMMUNE,asthma; allergic rhinitis; atopic dermatitis,European,Y,1,2004
+OTHER,synthetic hemodialysis graft failure,patients with synthetic polytetrrafluoroethylene grafts,Y,1,2003
+REPRODUCTION,chorioamnionitis,"African-American, European-American",Y,1,2003
+METABOLIC,"diabetes, type 2",Caucasic,Y,1,2000
+PSYCH,mood disorders,Italian (Caucasian),Y,1,1999
+OTHER,type I-A (tyrosinase-negative) oculocutaneous albinism,Puerto Rican,Y,1,1993
+METABOLIC,"body mass; diabetes, type 2; energy expenditure",Pima Indian,Y,1,2005
+IMMUNE,Lupus,Chinese,Y,1,2002
+METABOLIC,bone density,Swedish,Y,1,2003
+METABOLIC,"diabetes, type 2",U.K. population,Y,1,2002
+METABOLIC,hypertriglyceridemia,Japanese,Y,1,1995
+PSYCH,schizophrenia,NIMH Schizophrenia Genetics Initiative Denver Schizophrenia Center,Y,1,2002
+METABOLIC,CYP2D6 poor metabolizer phenotype,Japanese,Y,1,1999
+UNKNOWN,Still's disease,Korean,Y,1,2002
+IMMUNE,pemphigus foliaceus,Brazilian,Y,1,2003
+IMMUNE,Crohn's disease; ulcerative colitis,Jewish,Y,1,2002
+IMMUNE,graft versus host disease,Mixed Brazilian population,Y,1,2005
+METABOLIC,osteoporosis,postmenopausal Danish women,Y,1,2003
+CANCER,stomach cancer,Turkish,Y,1,2002
+METABOLIC,sickle cell disease,American,Y,1,2004
+CARDIOVASCULAR,"atherosclerosis, coronary","African American, Caucasian",Y,1,2005
+INFECTION,malaria; hypoglycemia; hyperparasitemia,African children,Y,1,2005
+METABOLIC,hyperbilirubinemia,Taiwanese,Y,1,2002
+IMMUNE,autoimmune pancreatitis,Japanese,Y,1,2002
+IMMUNE,celiac disease,southern European,Y,1,1992
+OTHER,"hearing loss/deafness; hearing loss, sensorineural nonsyndromic",Chinese,Y,1,2005
+IMMUNE,ANCA positive patients,Western India,Y,1,2005
+METABOLIC,alpha-2-macroglobulin concentration obesity,Thai,Y,1,2006
+PHARMACOGENOMIC,ebastine metabolism,Caucasian,Y,1,2006
+OTHER,pseudoxanthoma elasticum,German,Y,1,2006
+IMMUNE,asthma,Australian;Caucasian,Y,1,2006
+METABOLIC,obesity,Caucasian;French,Y,1,2006
+METABOLIC,"diabetes, type 2",Caucasian;French,Y,1,2006
+PSYCH,schizophrenia,European;Iranian,Y,1,2006
+CARDIOVASCULAR,cholesterol lipoprotein retinyl palmitate triglycerides,Caucasian,Y,1,2007
+CANCER,lung cancer,Caucasian;Mexican;Mexican American,Y,1,2006
+PSYCH,bulimia eating disorder,Caucasian,Y,1,2006
+METABOLIC,"diabetes, type 2",European;Korean;Mexican,Y,1,2006
+CARDIOVASCULAR,"atherosclerosis, generalized cholesterol, HDL triglycerides",European;Italian,Y,1,2006
+CARDIOVASCULAR,"heart anomalies, congenital",Caucasian,Y,1,2007
+AGING,muscle testing,Caucasian,Y,1,2006
+IMMUNE,"sclerosis, systemic",Iranian,Y,1,2006
+CARDIOVASCULAR,hypertension vascular aging,Korean,Y,1,2007
+VISION,"glaucoma, primary open-angle ocular hypertension",Spanish;French,Y,1,2006
+PSYCH,schizophrenia,Chinese;European;Scottish;Asian,Y,1,2006
+PSYCH,schizophrenia,Ashkenazi;Jewish,Y,1,2006
+NEUROLOGICAL,dyslexia,Italian,Y,1,2007
+METABOLIC,glucose insulin obesity,Caucasian;German,Y,1,2006
+METABOLIC,"body mass cholesterol cholesterol, HDL diabetes, type 2 leptin",Caucasian,Y,1,2006
+IMMUNE,allergic rhinitis asthma,Turkish,Y,1,2007
+PSYCH,autism,Korean,Y,1,2007
+PSYCH,schizophrenia,Caucasian;Portuguese,Y,1,2007
+IMMUNE,dermatitis and eczema,Australian;Caucasian;Asian,Y,1,2006
+RENAL,diabetic nephropathy,Caucasian;European,Y,1,2007
+INFECTION,leprosy tuberculosis,Indian,Y,1,2007
+OTHER,burning mouth syndrome,Brazilian,Y,1,2006
+METABOLIC,obesity,African American;European,Y,1,2006
+CANCER,breast cancer ovarian cancer,Polish,Y,1,2007
+CARDIOVASCULAR,"blood pressure, arterial body mass glucose insulin lipids",Korean,Y,1,2006
+METABOLIC,osteoarthritis,European,Y,1,2006
+NEUROLOGICAL,Parkinson's disease,Jewish,Y,1,2006
+IMMUNE,"Behcet's disease thromboembolism, venous",Israeli,Y,1,2007
+IMMUNE,periodontitis,Turkish,Y,1,2006
+IMMUNE,Crohn's disease ulcerative colitis,Canadian;EuropeanItalian,Y,1,2006
+NEUROLOGICAL,Alzheimer's disease,African American;Caucasian;Asian,Y,1,2006
+CARDIOVASCULAR,"angina, unstable",Brazilian,Y,1,2007
+PSYCH,schizophrenia,Finnish,Y,1,2007
+PSYCH,autism,Chinese;Caucasian,Y,1,2007
+METABOLIC,hypercholesterolemia,European,Y,1,2006
+CARDIOVASCULAR,"stroke, ischemic",Greek,Y,1,2007
+IMMUNE,Crohn's disease ulcerative colitis,Ashkenazi;Jewish,Y,1,2007
+CHEMDEPENDENCY,nicotine smoking behavior,European,Y,1,2006
+CANCER,"skin cancer, non-melanoma",middle aged Caucasian Danes,Y,1,2007
+IMMUNE,myasthenia gravis,French,Y,1,2006
+METABOLIC,"diabetes, type 2 rheumatoid arthritis",Caucasian;EuropeanFrench,Y,1,2007
+METABOLIC,metabolic syndrome,Chinese;European,Y,1,2007
+INFECTION,lung function,Irish,Y,1,2006
+NORMALVARIATION,skin color variation,Spanish;African AmericanAustralian;Caucasian,Y,1,2007
+CARDIOVASCULAR,"stroke, ischemic",Scandinavian,Y,1,2006
+PSYCH,schizophrenia tardive dyskinesia,Turkish,Y,1,2007
+IMMUNE,"diabetes, type 1",Swedish;Caucasian,Y,1,2007
+METABOLIC,"diabetes, type 2",Danish;Icelandic,Y,1,2007
+METABOLIC,amyloidosis Familial Mediterranean Fever,Turkish,Y,1,2006
+CARDIOVASCULAR,body mass,Caucasian,Y,1,2006
+NEUROLOGICAL,ALS/amyotrophic lateral sclerosis,European;German,Y,1,2006
+PHARMACOGENOMIC,warfarin sensitivity,Swedish;Caucasian,Y,1,2006
+METABOLIC,medium-chain acyl-CoA dehydrogenase deficiency,Dutch,Y,1,2005
+AGING,Longevity,China,Y,1,2002
+OTHER,myotonic dystrophy,Japanese,Y,1,1996
+OTHER,serum ACE concentration and CAD,Japanese,Y,1,1994
+OTHER,ARDS,96 ARDS (Caucasian),Y,1,2002
+IMMUNE,asthma,unknown,Y,1,2003
+NEUROLOGICAL,Parkinson's disease,European ancestry,Y,1,2005
+CARDIOVASCULAR,heart failure,Japanese,Y,1,2005
+IMMUNE,Asthma smokers,Chinese,Y,1,2001
+CARDIOVASCULAR,myocardial infarction,Chinese,Y,1,1998
+DEVELOPMENTAL,bone size,Chinese,Y,1,2005
+METABOLIC,body mass,African American,Y,1,2005
+METABOLIC,triglycerides,African American,Y,1,2002
+CARDIOVASCULAR,coronary heart disease,Caucasian,Y,1,2001
+CARDIOVASCULAR,coronary artery disease,Japanese Low risk men,Y,1,2003
+NEUROLOGICAL,Alzheimer's Disease,Polish,Y,1,2003
+METABOLIC,bone mineral density (BMD) / quantitative ultra sound (QUS),Female UK Dizygotic twins,Y,1,2002
+IMMUNE,asthma,African Caribbean families,Y,1,2005
+IMMUNE,Psoriatic Arthritis,Newfoundland,Y,1,2003
+METABOLIC,bone density,Jewish,Y,1,2002
+PSYCH,panic disorder,Japanese,Y,1,2004
+IMMUNE,Rheumatoid Arthritis,Asturias. Spain (Caucasians),Y,1,2000
+INFECTION,severe malaria,West African,Y,1,1998
+CARDIOVASCULAR,myocardial infarct; stroke; angina; peripheral vascular disease,Caucasian,Y,1,2005
+IMMUNE,systemic sclerosis,African Americans,Y,1,2004
+UNKNOWN,"cirrhosis, alcoholic; liver disease",Italian,Y,1,2004
+IMMUNE,Graves' disease; Hashimoto's thyroiditis,Japanese,Y,1,2005
+CANCER,Multiple familial trichoepithelioma and familial cylindromatosis,chinese,Y,1,2004
+CANCER,breast cancer,individuals from the Singapore Chinese Health Study Cohort,Y,1,2003
+METABOLIC,metabolism disorders,Chinese,Y,1,2003
+PHARMACOGENOMIC,losartan oxidation,Turkish,Y,1,2004
+REPRODUCTION,"azoospermia; oligospermia; infertility, male",Chinese,Y,1,2004
+PSYCH,schizophrenia,Italian (Caucasian),Y,1,1998
+PSYCH,major psychoses,Italian (Caucasian),Y,1,1999
+METABOLIC,osteoarthritis,Chuvasha,Y,1,2005
+METABOLIC,insulin resistance and intra-abdominal fat thickness,Japanese,Y,1,1997
+IMMUNE,lupus erythematosus,Taiwanese,Y,1,2005
+IMMUNE,lupus erythematosus,Vietnamese,Y,1,2003
+CARDIOVASCULAR,"thromboembolism, venous",Taiwanese,Y,1,2005
+PSYCH,mood disorder,Japanese,Y,1,2004
+IMMUNE,chronic obstructive pulmonary disease/COPD,Icelandic,Y,1,2004
+NEUROLOGICAL,Charcot-Marie-Tooth disease,Chinese,Y,1,2002
+CARDIOVASCULAR,cardiovascular,Japanese,Y,1,2004
+CARDIOVASCULAR,"atherosclerosis, generalized; vascular disease",Japanese,Y,1,2004
+NEUROLOGICAL,Huntington's disease,Australian,Y,1,2000
+METABOLIC,iron levels; soluble transferrin receptor; transferrin,Catalan,Y,1,2005
+IMMUNE,Stevens-Johnson syndrome,Han Chinese,Y,1,2004
+IMMUNE,Behcet's Disease,Japanese,Y,1,2003
+OTHER,"pemphigoid, bullous",Japanese,Y,1,2002
+IMMUNE,celiac disease,Indian,Y,1,2002
+IMMUNE,Vogt-Koyanagi-Harada syndrome,Chinese,Y,1,1999
+CARDIOVASCULAR,"myocardial infarct; atherosclerosis, coronary",Caucasian,Y,1,2004
+OTHER,high-altitude illness,Chinese,Y,1,2005
+PSYCH,major depressive disorder,Korean,Y,1,2004
+METABOLIC,schizophrenia,Chinese,Y,1,2002
+IMMUNE,"diabetes, type 1","white, from Europe or the USA",Y,1,2003
+IMMUNE,Bronchial asthma (childhood only),Japanese,Y,1,2001
+INFECTION,hepatitis C,African American,Y,1,2005
+IMMUNE,Total serum IgE. atopic dermatitis,German,Y,1,2000
+RENAL,nephrotic syndrome,Chinese,Y,1,2005
+IMMUNE,ulcerative colitis,caucasian,Y,1,2001
+IMMUNE,Asthma. FEV1,U.S. Caucasian. African American,Y,1,1999
+IMMUNE,systemic lupus erythematosus,African Americans,Y,1,2002
+CARDIOVASCULAR,diastolic blood pressure,Chinese,Y,1,2000
+METABOLIC,"retinopathy, diabetic",Caucasian,Y,1,2003
+AGING,aging,Bohemian Czechs. Baltimore Caucasians. and Baltimore African-Americans,Y,1,2002
+METABOLIC,obesity,Native American,Y,1,2000
+METABOLIC,coronary artery disease,Chinese,Y,1,2002
+RENAL,nephropathy in other diseases; cerebrovascular disease,Japanese,Y,1,2005
+CARDIOVASCULAR,carotid artery atherosclerosis,Finnish men,Y,1,2000
+IMMUNE,multiple sclerosis,Polish,Y,1,2004
+UNKNOWN,gastritis; intestinal metaplasia,Colombian,Y,1,2003
+VISION,glaucoma,French,Y,1,2003
+IMMUNE,"sulfasalazine, adverse effects of",Japanese,Y,1,2002
+METABOLIC,Body Weight Regulation,German,Y,1,2000
+IMMUNE,atopy,European,Y,1,2004
+RENAL,nephrosis,Chinese,Y,1,2005
+CANCER,"leukemia; leukemia, myelodysplastic (TRLIMDS)",Japanese,Y,1,2000
+CHEMDEPENDENCY,heroin abuse,Chinese,Y,1,2001
+IMMUNE,lupus erythematosus,Swedish,Y,1,2005
+CARDIOVASCULAR,"cardiomyopathy, nonfamilial hypertrophic",Japanese,Y,1,2001
+METABOLIC,insulin; lipids; obesity; glucose; leptin; cortisol,Swedish,Y,1,2002
+CARDIOVASCULAR,cerebral infarct,Japanese,Y,1,2003
+METABOLIC,LDL-cholesterol,MONICA,Y,1,2000
+METABOLIC,"diabetes, type 2",Slovene,Y,1,2005
+CARDIOVASCULAR,cerebral ischemia,German,Y,1,2004
+IMMUNE,lupus erythematosus; rheumatoid arthritis,Spanish,Y,1,2005
+CANCER,retinoblastoma,Japanese,Y,1,2004
+CARDIOVASCULAR,Brugada syndrome,Korean,Y,1,2004
+IMMUNE,"asthma; allergic disease, IgE mediated",Czech,Y,1,2002
+NORMALVARIATION,Concentration of Surfactant Protein D,Danish,Y,1,2005
+RENAL,kidney disease,Japanese,Y,1,2004
+PSYCH,bipolar disorder,Chinese,Y,1,1998
+PSYCH,ADHD,Caucasion,Y,1,2003
+IMMUNE,chronic pancreatitis.,Dutch patients with chronic pancreatitis of various origin,Y,1,2002
+IMMUNE,DRS,German,Y,1,2002
+IMMUNE,psoriasis,Polish,Y,1,2004
+IMMUNE,periodontitis,West European,Y,1,2001
+DEVELOPMENTAL,"cleft lip with or without cleft palate; cleft palate, isolated",Danish,Y,1,2001
+METABOLIC,Obesity ?????????,French Canadians,Y,1,2000
+CANCER,chronic atrophic gastritis and gastric carcinoma,North Portgal,Y,1,2003
+CANCER,gastric cancer,Portuguese,Y,1,1999
+PSYCH,anxiety disorder; depression,Taiwanese,Y,1,2004
+METABOLIC,"diabetes, type 2; obesity",French,Y,1,2000
+METABOLIC,bone mass,Finnish,Y,1,1996
+METABOLIC,leisure physical activity,healthy postmenopausal women,Y,1,2002
+CARDIOVASCULAR,Essential Hypertension,Caucasian,Y,1,2005
+METABOLIC,"diabetes, type 2; atherosclerosis, generalized",Chinese,Y,1,2004
+INFECTION,HIV,Russian,Y,1,2004
+OTHER,CYP2D6 poor metabolizer phenotype.,Japanese,Y,1,1996
+IMMUNE,periodontitis,African American,Y,1,2002
+OTHER,recurrent respiratory papillomatosis,"Caucasians, African American",Y,1,2004
+VISION,"glaucoma, primary open-angle",Chinese,Y,1,2003
+CANCER,lung cancer,Italian,Y,1,2000
+METABOLIC,plasma homocysteine levels,Japanese,Y,1,2002
+CARDIOVASCULAR,Coronary Heart Disease,German,Y,1,2002
+UNKNOWN,vessel stenosis,Korean,Y,1,2005
+METABOLIC,amyloidosis,Japanese,Y,1,2003
+METABOLIC,hyperbilirubinemia,Japanese,Y,1,2002
+OTHER,primary IgA nephropathy,Japanese,Y,1,1997
+OTHER,low responsiveness to hepatitis B vaccine,Chinese,Y,1,1993
+IMMUNE,asthma,Barbados,Y,1,2006
+NEUROLOGICAL,Multiple sclerosis,India,Y,1,2003
+METABOLIC,"cholesterol, HDL cholesterol, LDL",Caucasian;German; Swiss,Y,1,2006
+CANCER,leukemia,Caucasian,Y,1,2006
+IMMUNE,"asthma, aspirin-intolerant",Japanese;Caucasian,Y,1,2006
+REPRODUCTION,preeclampsia,Finnish,Y,1,2006
+METABOLIC,insulin triglycerides,Mexican;Mexican American,Y,1,2006
+CARDIOVASCULAR,"blood pressure, arterial cholesterol insulin resistance metabolic syndrome",Caucasian,Y,1,2007
+PHARMACOGENOMIC,lipids triglycerides,non-Hispanic,Y,1,2006
+METABOLIC,glucose insulin,Indian;Pima Indians,Y,1,2006
+CANCER,breast cancer,Icelandic,Y,1,2006
+METABOLIC,bone density osteocalcin,Korean,Y,1,2006
+METABOLIC,"diabetes, type 2",European,Y,1,2006
+METABOLIC,"diabetes, type 2 insulin",Japanese;Caucasian,Y,1,2006
+VISION,macular degeneration,Caucasian;Finnish,Y,1,2006
+METABOLIC,"diabetes, type 2 insulin",Indian;Pima Indians,Y,1,2006
+OTHER,Achilles tendon pathology,Caucasian,Y,1,2006
+METABOLIC,aldosterone,Caucasian,Y,1,2006
+NEUROLOGICAL,migraine with aura,Caucasian,Y,1,2006
+PSYCH,obsessive compulsive disorder,Mexican,Y,1,2006
+CARDIOVASCULAR,metabolic syndrome,Caucasian,Y,1,2006
+METABOLIC,metabolic syndrome,Romania,Y,1,2007
+IMMUNE,lupus erythematosus,Asian,Y,1,2006
+IMMUNE,dermatitis and eczema,German,Y,1,2006
+PSYCH,"anxiety disorder; depressive disorder, major; neuroticism",Caucasian,Y,1,2006
+CARDIOVASCULAR,"blood pressure, arterial",Caucasian,Y,1,2006
+METABOLIC,birth weight body mass,German,Y,1,2007
+INFECTION,"malaria, plasmodium falciparum",Gambia,Y,1,2007
+PSYCH,harm avoidance,Finnish,Y,1,2007
+IMMUNE,ankylosing spondylitis,Chinese;Caucasian,Y,1,2007
+CARDIOVASCULAR,C-reactive protein,Caucasian,Y,1,2007
+OTHER,fracture risk,Danish,Y,1,2007
+METABOLIC,osteoarthritis,Caucasian,Y,1,2007
+METABOLIC,sex hormones,Caucasian,Y,1,2006
+NEUROLOGICAL,essential tremor Parkinson's disease,Chinese;Caucasian,Y,1,2007
+IMMUNE,lupus erythematosus,Icelandic,Y,1,2006
+IMMUNE,lupus erythematosus,Korean,Y,1,2006
+CARDIOVASCULAR,brain hemorrhage,Caucasian,Y,1,2006
+CANCER,stomach cancer,Japanese;Chinese;Korean,Y,1,2006
+IMMUNE,allergy asthma,Caucasian,Y,1,2006
+METABOLIC,leanness obesity,Scandinavian,Y,1,2007
+PSYCH,schizophrenia,Portuguese,Y,1,2006
+PSYCH,"depressive disorder, major",Caucasian;German,Y,1,2006
+IMMUNE,ankylosing spondylitis,Caucasian;Korean,Y,1,2006
+CANCER,stomach cancer,Caucasian;Asian,Y,1,2006
+CARDIOVASCULAR,"atherosclerosis, coronary cholesterol, HDL triglycerides",Brazilian;Caucasian,Y,1,2007
+CANCER,lymphoma,Italian,Y,1,2007
+CANCER,"skin cancer, non-melanoma",Italian,Y,1,2007
+IMMUNE,"diabetes, type 1",Japanese;Caucasian;European;Korean,Y,1,2006
+IMMUNE,rheumatoid arthritis,Norwegian,Y,1,2007
+IMMUNE,asthma,Norwegian,Y,1,2007
+CARDIOVASCULAR,cholesterol triglycerides,Italian,Y,1,2006
+PSYCH,attention deficit hyperactivity disorder,Brazilian,Y,1,2006
+CANCER,prostate cancer,Turkish,Y,1,2007
+PSYCH,bipolar disorder schizophrenia,Korean,Y,1,2006
+METABOLIC,"diabetes, type 2",Japanese;European,Y,1,2007
+IMMUNE,sarcoidosis,Caucasian,Y,1,2006
+PSYCH,psychosis schizophrenia,Caucasian;European,Y,1,2006
+METABOLIC,oxidative stress,Caucasian,Y,1,2007
+CANCER,stomach cancer,Greek,Y,1,2006
+PHARMACOGENOMIC,warfarin sensitivity,Ashkenazi;Jewish,Y,1,2006
+METABOLIC,metabolic syndrome,Non-diabetic Taiwanese,Y,1,2003
+OTHER,plasma antigen levels of plasminogen activator inhibitor-1,Japanese,Y,1,2000
+OTHER,PMV after CABG,400 CABG pts,Y,1,2002
+CARDIOVASCULAR,myocardial ischemia,Moscow,Y,1,2003
+CHEMDEPENDENCY,alcohol dependency,american Indian,Y,1,2003
+METABOLIC,increased plasma leptin levels,Chinese,Y,1,1999
+CARDIOVASCULAR,hypertension,Moscow,Y,1,1999
+CARDIOVASCULAR,essential hypertension,Serbian,Y,1,2003
+CHEMDEPENDENCY,methamphetamine abuse,Japanese,Y,1,2005
+OTHER,"cirrhosis, alcoholic",Korean,Y,1,2001
+OTHER,elevated serum apolipoprotein AI levels,Chinese,Y,1,1994
+METABOLIC,"triglycerides; cholesterol, LDL",African American,Y,1,2004
+METABOLIC,high and low levels of cholesterol,children,Y,1,2004
+CARDIOVASCULAR,coronary artery disease,Japanese high risk women,Y,1,2003
+NEUROLOGICAL,Alzheimer's Disease,Colombian,Y,1,2004
+UNKNOWN,skin color,African American,Y,1,2005
+METABOLIC,bone density; osteoporosis,Chinese,Y,1,2001
+METABOLIC,"diabetes, type 2",West Africans,Y,1,2005
+IMMUNE,Crohn's disease,British Caucasian,Y,1,2002
+OTHER,vitiligo,Caucasian,Y,1,2002
+NEUROLOGICAL,intelligence,Japanese,Y,1,2005
+IMMUNE,asthma; atopy,African American,Y,1,2005
+IMMUNE,Asthma,Scottish children,Y,1,1999
+IMMUNE,IgE. SPT,Dutch,Y,1,2001
+VISION,macular corneal dystrophy.,American,Y,1,2004
+METABOLIC,bone characteristics,caucasian,Y,1,2002
+RENAL,nephropathy,Indian,Y,1,2004
+NORMALVARIATION,D-amphetamine response,"mixed student population from Chicago IL, USA",Y,1,2005
+IMMUNE,"diabetes, type 1",Chinese in Taiwan,Y,1,2001
+IMMUNE,Graves' disease,Tunisian,Y,1,2001
+IMMUNE,Graves' disease,Taiwanese,Y,1,2005
+INFECTION,HIV,French,Y,1,2003
+CARDIOVASCULAR,Hypertension,white and black individuals London no association in Blacks,Y,1,2003
+DEVELOPMENTAL,congenital adrenal hyperplasia,Spanish,Y,1,1999
+CANCER,lung cancer; esophageal cancer; stomach cancer; bladder cancer,Chinese,Y,1,2004
+METABOLIC,warfarin sensitivity,European,Y,1,2005
+OTHER,COPD,Japanese,Y,1,2002
+PSYCH,"depressive disorder, major",Chinese,Y,1,2002
+IMMUNE,Total IgE. Eosinophilia. DRS,German. Swedish,Y,1,2001
+OTHER,hereditary hemolytic anemia,Japanese,Y,1,1992
+CARDIOVASCULAR,coronary artery calcification,American,Y,1,2004
+METABOLIC,bone density,French-Canadian,Y,1,2005
+METABOLIC,increased fat oxidation and hyperinsulinemia,Korean,Y,1,2001
+OTHER,reduced beta-cell function,Japanese,Y,1,1996
+METABOLIC,"body mass; glucose tolerance; insulin; lipids; blood pressure, arterial; heart rate; autonomic nervous system",Japanese,Y,1,2005
+IMMUNE,thimerosal sensitization,Caucasians,Y,1,2000
+CHEMDEPENDENCY,methamphetamine abuse; psychoses,Japanese,Y,1,2005
+NEUROLOGICAL,Huntington's disease,"Japanese, North America",Y,1,2004
+CARDIOVASCULAR,"blood pressure, arterial; carotid atherosclerosis",Japanese,Y,1,2004
+IMMUNE,Haemophilia with Chronic synovitis,Indian,Y,1,2003
+IMMUNE,lupus erythematosus,Caucasian,Y,1,2003
+METABOLIC,osteoarthritis,Dutch,Y,1,2003
+IMMUNE,pollen-induced allergic rhinitis,Chinese,Y,1,2004
+CANCER,stomach cancer,Taiwanese,Y,1,2002
+CARDIOVASCULAR,"heart disease, ischemic",Japanese,Y,1,2004
+PSYCH,anorexia nervosa; bulimia nervosa,Japanese,Y,1,2001
+IMMUNE,arthritis,Italian,Y,1,2000
+IMMUNE,allergies; common cold,German,Y,1,2001
+IMMUNE,Bronchial asthma (childhood & adult),Japanese,Y,1,2001
+IMMUNE,Asthma in men,Finnish,Y,1,2002
+IMMUNE,early onset periodontitis,Japanese,Y,1,2002
+IMMUNE,Asthma. rhinitis,Canadian infants (mixed),Y,1,2000
+CANCER,increasing risk and a poor prognosis of renal cell carcinoma,Japanese,Y,1,2002
+CANCER,stomach cancer; gastric ulcer; gastritis; duodenal ulcer,Japanese,Y,1,2005
+METABOLIC,triglycerides; insulin,Chinese,Y,1,2004
+AGING,longevity,Ashkenazi Jews,Y,1,2005
+METABOLIC,BMI,Samoans,Y,1,2002
+METABOLIC,triglycerides; insulin,Japanese,Y,1,2005
+CARDIOVASCULAR,Coronary Heart Disease,Han Chinese of Beijing area,Y,1,1996
+OTHER,fractures,Australian,Y,1,2005
+CHEMDEPENDENCY,smoking behavior,Chinese,Y,1,2005
+CARDIOVASCULAR,coronary artery disease,Japanese low risk women,Y,1,2003
+IMMUNE,allergies,Japanese,Y,1,2001
+IMMUNE,Asthma,Northern European,Y,1,2001
+VISION,"glaucoma, primary open-angle",Eastern Chinese,Y,1,2004
+PSYCH,affective disorder,Japanese,Y,1,2004
+METABOLIC,obesity,German,Y,1,2000
+OTHER,Systemic lupus erythematosus,from North and South Carolinas,Y,1,2003
+CARDIOVASCULAR,"blood pressure, arterial",Chinese,Y,1,2005
+CARDIOVASCULAR,coronary artery disease,patients of Anglo-Caltic descent residing in Sydney,Y,1,2003
+CHEMDEPENDENCY,naltrexone response in alcohol-dependent patients,alcohol dependent patients,Y,1,2003
+IMMUNE,Asthma. atopy. spIgE.,German,Y,1,2000
+CARDIOVASCULAR,Stroke,Icelandic,Y,1,2003
+METABOLIC,obesity,Italian,Y,1,2001
+METABOLIC,carotid artery damage,Chinese,Y,1,2003
+CARDIOVASCULAR,cardiovascular,caucasian type 2 diabetics,Y,1,2004
+IMMUNE,multiple sclerosis,Finnish,Y,1,2006
+OTHER,abnormal splicing,African,Y,1,2002
+CANCER,"thyroid cancer; thyroid carcinoma, sporadic medullary",German,Y,1,2001
+CANCER,,Japanese,Y,1,2003
+CARDIOVASCULAR,hypertension,South African,Y,1,2003
+CARDIOVASCULAR,myocardial infarct; cerebrovascular infart,Chinese,Y,1,2003
+IMMUNE,X-linked lymphoproliferative disease,Japanese,Y,1,2001
+METABOLIC,hyperuricemia; uric acid,German,Y,1,2005
+PSYCH,autism,German,Y,1,1997
+NEUROLOGICAL,familial amyotrophic lateral sclerosis,Japanese,Y,1,1996
+CANCER,"pancreatic cancer; pancreatitis, chronic",Finnish,Y,1,2005
+IMMUNE,Allergic diseases (bronchial asthma. atopic dermatitis and/or food-related anaphylaxis),Japanese,Y,1,2001
+IMMUNE,lupus erythematosus,Colombian,Y,1,2003
+OTHER,prevalent vertebral fractures,Japanese,Y,1,2000
+PSYCH,mood disorder.,Italian (Caucasian),Y,1,1998
+OTHER,lipopolysaccharide hyporesponsiveness,Japanese,Y,1,2002
+IMMUNE,Crohn's disease; ulcerative colitis,Korean,Y,1,2003
+OTHER,keloid,Chinese,Y,1,2005
+PSYCH,suicide,Caucasian,Y,1,2003
+NEUROLOGICAL,Parkinson's disease,global,Y,1,2004
+METABOLIC,body fat,European,Y,1,2000
+NORMALVARIATION,birth height growth to adolescence and adult stature,caucasian,Y,1,2000
+METABOLIC,bone mineral density,Korean,Y,1,2000
+REPRODUCTION,"pregnancy loss, recurrent",Irish,Y,1,2001
+METABOLIC,"bone density; spondylosis, lumbar",Japanese,Y,1,2001
+METABOLIC,lipid metabolism disorders; metabolic syndrome,Indian,Y,1,2004
+PSYCH,schizophrenia,Ashkenazi Jewish ethnic origin,Y,1,2002
+PHARMACOGENOMIC,loratadine pharmacokinetics,Chinese,Y,1,2005
+CANCER,cervical cancer,Korean,Y,1,2003
+UNKNOWN,"renal disease, end stage",Mexican,Y,1,2000
+AGING,bone resorption,healthy postmenopausal women,Y,1,2003
+METABOLIC,body mass; leptin; fat mass,Caucasian,Y,1,2001
+OTHER,mild hyperhomocysteinaemia,South African,Y,1,2002
+CARDIOVASCULAR,Coronary Artery Disease,Taiwanese,Y,1,2001
+CARDIOVASCULAR,myocardial infarction,Turkish,Y,1,2002
+OTHER,erectile dysfunction,Mexican,Y,1,2004
+METABOLIC,amyloidosis; Familial Mediterranean Fever,Turkish,Y,1,2004
+METABOLIC,bilirubin; irinotecan pharmacogenetics,Japanese,Y,1,2004
+OTHER,diffuse panbronchiolitis,Korean,Y,1,1999
+METABOLIC,lipids,Japanese,Y,1,2001
+AGING,cognitive decline,"Memphis, Tennessee, and Pittsburgh, Pennsylvania,",Y,1,2006
+INFECTION,AIDS,Indian,Y,1,2003
+NEUROLOGICAL,Alzheimer's disease,Japanese;Caucasian;European,Y,1,2006
+PHARMACOGENOMIC,fentanyl effects,Korean,Y,1,2006
+CARDIOVASCULAR,"blood pressure, arterial intima-media thickness",Caucasian,Y,1,2006
+METABOLIC,adiponectin glucose insulin lipids,Korean,Y,1,2006
+CARDIOVASCULAR,myocardial infarct,Japanese;Korean,Y,1,2007
+CARDIOVASCULAR,"cholesterol, HDL triglycerides",Brazilian;European,Y,1,2007
+CANCER,"breast cancer breast cancer, male colorectal cancer ovarian cancer prostate cancer",Norwegian,Y,1,2006
+DEVELOPMENTAL,neural tube defects,Caucasian,Y,1,2006
+METABOLIC,polycystic ovary syndrome,German,Y,1,2006
+IMMUNE,autoimmune thyroiditis Graves' disease Hashimoto's thyroiditis,Japanese;Caucasian;Korean,Y,1,2006
+VISION,macular degeneration,Indian,Y,1,2006
+AGING,"disc degeneration, lumbar spine",Japanese;Finnish,Y,1,2006
+IMMUNE,Sjogren's syndrome,Australian;Caucasian,Y,1,2006
+CARDIOVASCULAR,"blood pressure, arterial cholesterol",Belgian;European;Italian,Y,1,2006
+METABOLIC,hyperandrogenism,Israeli,Y,1,2006
+NORMALVARIATION,Dopamine beta-Hydroxylase Activity,European,Y,1,2007
+DEVELOPMENTAL,neural tube defects,Irish,Y,1,2007
+PHARMACOGENOMIC,attention deficit hyperactivity disorder,Korean,Y,1,2006
+IMMUNE,vitiligo,Korean,Y,1,2007
+CANCER,colorectal cancer hyperplastic polyposis,Finnish,Y,1,2006
+IMMUNE,inflammation,Chinese;Canadian;CaucIndian,Y,1,2006
+METABOLIC,"body mass glucose tolerance glycemia obesity, localized",Danish,Y,1,2007
+CARDIOVASCULAR,"atherosclerosis, coronary myocardial infarct",Caucasian;Finnish,Y,1,2007
+NEUROLOGICAL,cluster headache,German,Y,1,2006
+IMMUNE,celiac disease,Finnish,Y,1,2006
+NEUROLOGICAL,Alzheimer's disease cognitive function,Italian,Y,1,2007
+METABOLIC,adrogen body mass insulin polycystic ovary syndrome,Caucasian,Y,1,2006
+PHARMACOGENOMIC,"weight gain, antipsychotic-induced",Caucasian,Y,1,2007
+PHARMACOGENOMIC,tuberculosis,Caucasian;Turkish,Y,1,2007
+IMMUNE,allergic rhinitis,Korean,Y,1,2006
+IMMUNE,lupus erythematosus,European;Indian;Mexican,Y,1,2007
+CARDIOVASCULAR,"stroke, ischemic",Sardinian,Y,1,2007
+METABOLIC,bone density,Japanese;Caucasian,Y,1,2007
+INFECTION,malaria,Caucasian,Y,1,2006
+DEVELOPMENTAL,cleft lip with cleft palate cleft lip without cleft palate,Thai;Vietnamese,Y,1,2006
+CARDIOVASCULAR,"atherosclerosis, coronary",Caucasian;Korean,Y,1,2006
+METABOLIC,"diabetes, type 2 ghrelin insulin",European,Y,1,2007
+CANCER,bladder cancer,Turkish,Y,1,2006
+IMMUNE,rheumatoid arthritis,Japanese;European,Y,1,2006
+IMMUNE,lupus erythematosus,Spanish;Swedish;European;Mexican,Y,1,2007
+CARDIOVASCULAR,cardiovascular disease,Korean,Y,1,2006
+METABOLIC,"cholesterol cholesterol, HDL cholesterol, LDL",Caucasian,Y,1,2006
+METABOLIC,bone density height,Caucasian,Y,1,2006
+IMMUNE,rheumatoid arthritis,Caucasian,Y,1,2006
+IMMUNE,asthma rheumatoid arthritis,European;Polish,Y,1,2007
+VISION,"retinoschisis, x-linked",Indian,Y,1,2007
+REPRODUCTION,premature rupture of membranes,African American;European,Y,1,2006
+PSYCH,"depression depressive disorder, major",Caucasian,Y,1,2006
+PHARMACOGENOMIC,"cholesterol cholesterol, HDL cholesterol, LDL triglycerides",Asian,Y,1,2007
+NEUROLOGICAL,Alzheimer's disease,African American;Hispanic ;European;non-Hispanic,Y,1,2007
+PSYCH,schizophrenia,European;Irish,Y,1,2007
+METABOLIC,"diabetes, type 2",Caucasian;Mexican;Mexican American,Y,1,2007
+IMMUNE,periodontitis,Caucasian;European,Y,1,2007
+PSYCH,bulimia harm avoidance personality traits,Caucasian,Y,1,2007
+PHARMACOGENOMIC,bilirubin,Caucasian;Thai,Y,1,2006
+METABOLIC,"diabetes, type 2 retinopathy, diabetic",Brazilian;European,Y,1,2007
+PHARMACOGENOMIC,warfarin sensitivity,Caucasian;Korean;Asian,Y,1,2007
+OTHER,Late-onset Stargardt disease,late-onset STGDI patients (onset: > or =35 years),Y,1,2001
+METABOLIC,metabolic syndrome,Taiwanes and Japanese Hypertensive Family,Y,1,2003
+CARDIOVASCULAR,hypertension,Sikh,Y,1,1997
+IMMUNE,Systemic Lupus Erythematosus (SLE),Korean,Y,1,2002
+IMMUNE,allergic rhinitis,Japanese,Y,1,2004
+INFECTION,Parasitic infection,Australian aborigines,Y,1,1999
+METABOLIC,Body Mass Index,Japanese,Y,1,2001
+RENAL,diabetic retinopathy.,Caucasian,Y,1,2001
+OTHER,immunoglobin A nephropathy,caucasian,Y,1,1997
+METABOLIC,"anthropometric and metabolic traits, relative to cardiovascular risk",Caucasian: British,Y,1,2005
+CARDIOVASCULAR,aging,European Americans divided into young (18-39 years) and old (>60 years) groups.,Y,1,2003
+CHEMDEPENDENCY,alcohol abuse; smoking behavior,Indian,Y,1,2004
+METABOLIC,plasma high density lipoprotein cholesterol and apolipoprotein AI,Chinese,Y,1,2002
+METABOLIC,triglycerides,Japanese,Y,1,2002
+AGING,obesity,older Causcasian adults,Y,1,2003
+METABOLIC,Wilson disease,Chinese,Y,1,2003
+OTHER,cerebellar ataxia,Japanese,Y,1,1997
+METABOLIC,"diabetes, type 2; nephropathy, diabetic",Polish,Y,1,2002
+IMMUNE,asthma; allergies,German,Y,1,2003
+UNKNOWN,blood catalase levels,Swedish,Y,1,2001
+IMMUNE,Asthma. asthma severity,Hungarian,Y,1,2001
+IMMUNE,Septic Shock,Caucasian,Y,1,2002
+METABOLIC,"body mass; cholesterol; cholesterol, HDL; triglycerides; blood pressure; insulin resistance",Japanese,Y,1,2001
+IMMUNE,psoriasis,Jewish,Y,1,2005
+VISION,"macular degeneration, age-related",French,Y,1,2005
+OTHER,hypercalciuric nephrocalcinosis,Japanese,Y,1,1997
+PSYCH,major depression,swedish,Y,1,2003
+IMMUNE,Graves' disease,Chinese,Y,1,2002
+IMMUNE,Graves' disease,Italian,Y,1,2005
+INFECTION,HIV,African,Y,1,2005
+CANCER,oral cancer,Chinese,Y,1,2005
+METABOLIC,"osteoporosis, postmenopausal",Spanish (Caucasian),Y,1,2005
+IMMUNE,"diabetes, type 1; Addison's disease; Graves' disease; thyroiditis, chronic lymphocytic",German,Y,1,2004
+PHARMACOGENOMIC,lasoprazole pharmacokinetics,Chinese,Y,1,2004
+PHARMACOGENOMIC,irbesartan phamacokinetics,Chinese,Y,1,2005
+METABOLIC,"body mass; cholesterol, HDL; blood pressure",Turkish,Y,1,2002
+PSYCH,schizophrenia,French,Y,1,2001
+IMMUNE,Asthma,German. Swedish,Y,1,2001
+CANCER,colorectal polyps (adenoma or hyperplastic),"case-control study (colonoscopy-screened, clinic-based)",Y,1,2001
+CARDIOVASCULAR,"atherosclerosis, coronary",African American,Y,1,2004
+CARDIOVASCULAR,"atherosclerosis, coronary",Spanish,Y,1,2004
+HEMATOLOGICAL,factor VII levels,Tunisian,Y,1,2004
+METABOLIC,hyperinsulinemia; fat oxidation; intestinal fatty acid absorption,Korean,Y,1,2001
+OTHER,scleroderma,Japanese,Y,1,2002
+IMMUNE,systemic lupus erythematosus,Hispanic,Y,1,2001
+CARDIOVASCULAR,stroke; fibrinogen,Chinese,Y,1,2000
+CHEMDEPENDENCY,alcoholism,Russian,Y,1,2005
+METABOLIC,insulin resistance,Indian,Y,1,2000
+CARDIOVASCULAR,hypertension and obesity,white subjects of middle eastern (Austrian) origin,Y,1,2003
+CARDIOVASCULAR,"blood pressure, arterial",Korean,Y,1,2005
+CANCER,oral cancer,Indian,Y,1,2002
+CANCER,Bladder Cancer,Korean,Y,1,2000
+NEUROLOGICAL,Huntington's disease,Spanish,Y,1,2005
+VISION,"diabetes, type 2; retinopathy, diabetic",Japanese,Y,1,2005
+CARDIOVASCULAR,hypertrophic cardiomyopathy,India,Y,1,2004
+IMMUNE,psoriasis,Korean,Y,1,2003
+OTHER,"pemphigoid, mucous membrane",Italian,Y,1,2001
+METABOLIC,glutamic acid decarboxylase antibodies,Caucasian,Y,1,2003
+IMMUNE,Asthma,U.S. Caucasian,Y,1,2000
+NORMALVARIATION,abacavir hypersensitivity,Australian,Y,1,2004
+PSYCH,bipolar disorder,Korean,Y,1,2001
+PSYCH,"depression, psychosis and antipsychotic response",British caucasian,Y,1,2000
+INFECTION,Cerebral Malaria,African,Y,1,2002
+IMMUNE,eosinophilia,German. Swedish,Y,1,2001
+IMMUNE,asthma (childhood),Caucasoid,Y,1,2002
+IMMUNE,serum IgE levels,German,Y,1,2003
+IMMUNE,allergic rhinitis,oldest child in white families,Y,1,2003
+CANCER,hepatocellular carcinoma,Japanese,Y,1,2003
+CHEMDEPENDENCY,alcoholism,Spanish,Y,1,2000
+IMMUNE,IL-4,Japanese,Y,1,2002
+AGING,osteoarthritis,Icelandic,Y,1,2004
+UNKNOWN,adiponectin,Finnish,Y,1,2005
+METABOLIC,obesity,obese girls,Y,1,2000
+RENAL,diabetic nephropathy,Chinese,Y,1,2005
+METABOLIC,High Triglyceride/ Low HDL Cholesterol Levels,Hispanics and Non-Hispanic Whites,Y,1,2000
+CHEMDEPENDENCY,alcoholism,Chinese,Y,1,2003
+IMMUNE,multiple sclerosis,non-Ashkenazi Jewish,Y,1,2003
+IMMUNE,"diabetes, type 1",Swedish,Y,1,2003
+CARDIOVASCULAR,myocardial infarct,Chinese,Y,1,2004
+IMMUNE,Total serum IgE. specific IgE. AR,Japanese,Y,1,2001
+NEUROLOGICAL,"panencephalitis, subacute sclerosing",Japanese,Y,1,2004
+IMMUNE,Contact Allergy,Caucasian,Y,1,2000
+NEUROLOGICAL,motor neuron disease,Russian,Y,1,2004
+IMMUNE,Asthma,U.K. Caucasians,Y,1,2000
+CARDIOVASCULAR,Abdominal adiposity and Hypertension,white Caucasian obese hypertensives,Y,1,1999
+CHEMDEPENDENCY,heroin dependence,Chinese,Y,1,2001
+IMMUNE,Total IgE. atopic asthma,German,Y,1,2000
+CARDIOVASCULAR,"aneurysm, abdominal aortic",Japanese,Y,1,2002
+METABOLIC,"diabetes, type 2",Turkish,Y,1,2004
+METABOLIC,obesity,obese women,Y,1,1999
+METABOLIC,"diabetes, type 2",Han population of North China,Y,1,2003
+NEUROLOGICAL,familial Alzheimer's disease associated,Japanese,Y,1,2003
+CANCER,stomach cancer; stomach atrophy,Japanese,Y,1,2005
+OTHER,HTLV-1 associated myelopathy/tropical spastic; paraparesis,African,Y,1,2002
+CARDIOVASCULAR,Type II diabetes and hypertension,Chinese,Y,1,2003
+CANCER,prostate cancer,Jewish,Y,1,2003
+CARDIOVASCULAR,blood pressure,French,Y,1,2001
+INFECTION,meningococcal disease,Caucasian,Y,1,2003
+IMMUNE,multiple sclerosis,Norwegian,Y,1,2001
+PSYCH,personality disorders,Korean,Y,1,2005
+AGING,harm avoidance behaviour in an elderly population.,elderly,Y,1,1998
+NEUROLOGICAL,ALS/amyotrophic lateral sclerosis,Italian,Y,1,2002
+IMMUNE,Atopic dermatitis. atopy,U.K.,Y,1,2001
+IMMUNE,"asthma; dermatitis and eczema; anaphylaxis, food-related",Japanese,Y,1,2003
+OTHER,ability to taste phenylthiocarbamide,"European, East Asian, sub-Sahara African, SW Native American",Y,1,2003
+REPRODUCTION,shortened gestation,Finnish,Y,1,2002
+METABOLIC,"diabetes, type 2",elderly population,Y,1,2002
+METABOLIC,hypothyroidism,Tunisian,Y,1,2004
+CANCER,liver cancer,Chinese,Y,1,2005
+CARDIOVASCULAR,"heart disease, ischemic; insulin",Caucasian,Y,1,2005
+METABOLIC,"cholesterol, HDL; cholesterol, LDL",Korean,Y,1,2004
+METABOLIC,"diabetes, type 2; body fat; lipid metabolism",Chinese,Y,1,2002
+INFECTION,Progression to AIDS,Caucasian,Y,1,2001
+IMMUNE,sarcoidosis,Japanese,Y,1,2003
+CANCER,lung cancer,Spanish,Y,1,2004
+METABOLIC,triacylglycerol,Korean,Y,1,2003
+AGING,cognitive function,chinese,Y,1,2003
+PSYCH,tardive dyskinesia,Korean,Y,1,2002
+CARDIOVASCULAR,hypertension,>2000 Japanese individuals,Y,1,2002
+IMMUNE,"autoimmune thyroid disease; thyroid disease, autoimmune",Caucasian,Y,1,2001
+IMMUNE,multiple sclerosis,Sardinian,Y,1,2000
+METABOLIC,"cholesterol, HDL; triglycerides; cholesterol, LDL; lipoprotein; fatty acid; uric acid",Japanese,Y,1,2004
+NEUROLOGICAL,late-onset Alzheimer's disease.,Japanese,Y,1,2004
+OTHER,nitric oxide,Korean,Y,1,2002
+OTHER,hearing loss/deafness,Korean,Y,1,2005
+CARDIOVASCULAR,"hypertension, pregnancy induced",Caucasian,Y,1,2002
+NEUROLOGICAL,Progressive supranuclear palsy,European/Caucasian,Y,1,2003
+OTHER,primary biliary cirrhosis,German,Y,1,1995
+AGING,protein fraction levels,Japanese,Y,1,2003
+PSYCH,obsessive compulsive disorder,Seventy-one probands with /DSM-III-R/ or /DSM-IV/^ OCD,Y,1,2006
+INFECTION,Leprosy,India,Y,1,2004
+IMMUNE,ulcerative colitis,Iranian,Y,1,2007
+METABOLIC,"diabetes, type 2 hypertension intima-media thickness mortality",Caucasian,Y,1,2006
+METABOLIC,glucose tolerance hyperglycemia,Japanese;Chinese;Indian;Pima Indians,Y,1,2006
+CARDIOVASCULAR,"atherosclerosis, carotid",European,Y,1,2006
+REPRODUCTION,estradiol,German,Y,1,2007
+PSYCH,schizophrenia,Danish,Y,1,2006
+METABOLIC,osteoarthritis,Japanese;Chinese;Caucasian;European,Y,1,2006
+REPRODUCTION,premature ovarian failure,Caucasian,Y,1,2006
+RENAL,diabetic neuropathy,Russian,Y,1,2006
+RENAL,diabetic nephropathy,Japanese;Indian;Asian,Y,1,2007
+IMMUNE,asthma IgE,Korean,Y,1,2007
+PSYCH,attentional network function,Caucasian,Y,1,2007
+IMMUNE,Hashimoto's thryoiditis,Polish,Y,1,2006
+METABOLIC,metabolic syndrome,European,Y,1,2007
+CHEMDEPENDENCY,smoking behavior,Asian,Y,1,2006
+IMMUNE,"diabetes, type 1 Vitamin D",German,Y,1,2007
+PSYCH,anxiety disorder panic disorder,German,Y,1,2006
+PSYCH,Asperger syndrome,Finnish;Scottish,Y,1,2007
+IMMUNE,pemphigus vulgaris,Indian,Y,1,2006
+METABOLIC,birth weight,"White Western European, Sri Lanka Sinhalese",Y,1,2007
+CANCER,lung cancer,Chinese;European,Y,1,2007
+CANCER,colorectal cancer,German,Y,1,2007
+CHEMDEPENDENCY,alcoholism,Finnish,Y,1,2006
+IMMUNE,"bronchopulmonary dysplasia respiratory distress syndrome, neonatal",Finnish,Y,1,2006
+NEUROLOGICAL,cluster headache,European,Y,1,2007
+INFECTION,cervical dysplasia H. pylori infection,Vietnamese,Y,1,2006
+OTHER,lung function,French,Y,1,2006
+IMMUNE,sarcoidosis,Polish,Y,1,2006
+PSYCH,"depressive disorder, major",Japanese;Caucasian;European,Y,1,2006
+REPRODUCTION,premature pubarche,Caucasian,Y,1,2007
+IMMUNE,Crohn's disease,Jewish,Y,1,2007
+METABOLIC,lactose intolerance,European,Y,1,2007
+METABOLIC,bone density,Canadian;French,Y,1,2007
+CANCER,melanoma,European,Y,1,2006
+OTHER,"pancreatitis, acute",Caucasian,Y,1,2007
+METABOLIC,bone mass IGF-I levels sex steroid hormones,Caucasian,Y,1,2006
+IMMUNE,periodontal disease,Turkish,Y,1,2006
+METABOLIC,dyslipidemia,Mexican;Mexican American,Y,1,2007
+IMMUNE,rheumatoid arthritis,European;Asian,Y,1,2007
+IMMUNE,lupus erythematosus,African American;Hispanic Caucasian,Y,1,2007
+METABOLIC,body mass,Caucasian,Y,1,2007
+CARDIOVASCULAR,stroke,Polish,Y,1,2007
+PSYCH,attention deficit hyperactivity disorder conduct disorder novelty seeking substance experimentation,Hispanic Caucasian,Y,1,2007
+OTHER,gastric atrophy,Japanese;Brazilian;Caucasian,Y,1,2006
+IMMUNE,multiple sclerosis,Caucasian,Y,1,2006
+PSYCH,"depressive disorder, major suicide",Canadian;French,Y,1,2006
+IMMUNE,asthma respiratory syncytial virus,Finnish,Y,1,2006
+CHEMDEPENDENCY,alcoholism,Brazilian;European,Y,1,2006
+PSYCH,Tourette syndrome,Caucasian,Y,1,2006
+NEUROLOGICAL,Parkinson's disease,European;German,Y,1,2006
+IMMUNE,pemphigus,Israeli;Jewish,Y,1,2005
+METABOLIC,"diabetes, type 2",Scottish,Y,1,2007
+CANCER,esophageal cancer noncardia gastric carcinoma stomach cancer,Caucasian,Y,1,2006
+PSYCH,"bipolar disorder depressive disorder, major",Canadian;French,Y,1,2007
+CARDIOVASCULAR,myocardial infarct,Caucasian,Y,1,2007
+CANCER,upper aerodigestive tract cancer,"Romania, Poland, Russia, Slovakia and the Czech Republic.",Y,1,2006
+CARDIOVASCULAR,high density lipoprotein cholesterol level,Japanese,Y,1,2003
+VISION,macular degeneration,Chinese,Y,1,2003
+METABOLIC,"cholesterol; cholesterol, LDL",Caucasian,Y,1,2001
+NORMALVARIATION,endurance performance,swimmers vs age matched military recruits,Y,1,2001
+IMMUNE,lupus erythematosus; nephropathy in other diseases,Caucasian,Y,1,2004
+PSYCH,schizophrenia; schizoaffective disorder,Spanish,Y,1,2005
+METABOLIC,Body Weight,Anglo- Celtic Australian Caucasin,Y,1,2001
+CANCER,non-small cell lung cancer,54 NSCLC patients and 59 non-cancer controls,Y,1,2001
+METABOLIC,angiotensinogen concentrations,healthy pregnant women,Y,1,2000
+METABOLIC,nephropathy in other diseases,Japanese,Y,1,2003
+OTHER,liver cirrhosis,Japanese,Y,1,1995
+CARDIOVASCULAR,myocardial infarct; lipoprotein; cerebral infarct,Chinese,Y,1,2002
+METABOLIC,triglycerides,Chinese,Y,1,2003
+AGING,life expectancy,European,Y,1,2004
+METABOLIC,androgen insensitivity syndrome,Australian,Y,1,2004
+METABOLIC,liver disease; Wilson disease,Chinese,Y,1,2004
+VISION,optic disc atrophy,Japanese,Y,1,2003
+CARDIOVASCULAR,microvascular function,Caucasian,Y,1,2002
+IMMUNE,Crohn's disease; ulcerative colitis,Greek,Y,1,2005
+INFECTION,tuberculosis,Mexicans and Koreans,Y,1,2005
+CANCER,esophageal cancer; gastric cardiac cancer,Chinese,Y,1,2003
+IMMUNE,Physician diagnosed asthma,Caucasian,Y,1,2003
+IMMUNE,Total IgE,British. Japanese,Y,1,1999
+CARDIOVASCULAR,"atherosclerosis, coronary; diabetes, type 2",Caucasian,Y,1,2004
+AGING,exceptional longevity,Ashkenazi Jews,Y,1,2003
+IMMUNE,allergic bronchopulmonary aspergillosis ABPA,Belgium,Y,1,2001
+OTHER,sleep disorders,Japanese,Y,1,2004
+CARDIOVASCULAR,intracranial aneurysms,Japanese,Y,1,2004
+PSYCH,depression,Mexican,Y,1,2004
+METABOLIC,"diabetes, type 2; diabetes, type 1",Chinese,Y,1,2002
+IMMUNE,celiac disease,Italian,Y,1,2003
+INFECTION,HIV; pneumocystis carinii pneumonia,African Americans,Y,1,2003
+CANCER,prostate cancer,French,Y,1,2001
+REPRODUCTION,menarche,Turkish,Y,1,2005
+PHARMACOGENOMIC,clomipramine metabolism,Japanese,Y,1,2001
+CANCER,adult brain tumors,patients from 3 USA hospitals,Y,1,2003
+NEUROLOGICAL,Alzheimer's Disease,Jewish (mostly),Y,1,2004
+PSYCH,attention deficit hyperactivity disorder,Indian,Y,1,2005
+CARDIOVASCULAR,"left ventricular hypertrophy; blood pressure, arterial",Swedish,Y,1,2004
+OTHER,COPD,U.K.,Y,1,1997
+METABOLIC,bone mineral density,participants in the National Institure For Longevity Sciences Longitudinal Study of Aging,Y,1,2002
+CARDIOVASCULAR,nonfatal myocardial infarction.,post-menopausal women,Y,1,2003
+METABOLIC,"cholesterol; triglycerides; diabetes, type 2; obesity",Japanese,Y,1,2004
+OTHER,scleroderma,Native American,Y,1,1998
+CARDIOVASCULAR,"stroke, ischemic; fibrinogen",Chinese,Y,1,2002
+CHEMDEPENDENCY,alcohol dependence,Scottish,Y,1,1999
+METABOLIC,"diabetes, gestational",Chinese,Y,1,1999
+METABOLIC,"diabetes, type 2",Polish,Y,1,2002
+CARDIOVASCULAR,"atherosclerosis, generalized",Japanese,Y,1,2004
+CANCER,tuberculosis; esophageal cancer,South African,Y,1,2003
+OTHER,Life expectancy,Danish,Y,1,2001
+CANCER,nasopharyngeal cancer,Chinese,Y,1,2002
+METABOLIC,cholestasis,Chinese,Y,1,2003
+IMMUNE,"diabetes, type 1",Indian,Y,1,2004
+IMMUNE,pemphigus,Chinese,Y,1,2003
+OTHER,"cirrhosis, biliary primary",Caucasian,Y,1,2005
+CHEMDEPENDENCY,cocaine dependence,African American,Y,1,2005
+PSYCH,schizophrenia,Indian,Y,1,2002
+PSYCH,personality traits,Korean,Y,1,2004
+IMMUNE,coeliac disease,Spanish,Y,1,2004
+DEVELOPMENTAL,postnatal growth,unknown,Y,1,2003
+IMMUNE,BHR,Dutch,Y,1,2001
+INFECTION,hepatitis B,Chinese,Y,1,2005
+CANCER,gastric carcinoma,North Portugal,Y,1,2001
+CANCER,vulvar carcinogenesis,caucasian,Y,1,2004
+IMMUNE,Asthma severity,Tunisian,Y,1,1999
+INFECTION,respiratory syncytial virus,Korean,Y,1,2002
+IMMUNE,atopy,Spanish,Y,1,2005
+REPRODUCTION,premature ovarian failure,Italian,Y,1,2002
+METABOLIC,body fat; insulin resistance,Italian,Y,1,2001
+CARDIOVASCULAR,QT interval,Finnish,Y,1,2002
+INFECTION,Nonsurvivors of sepsis (male only),204 SS pts,Y,1,2001
+PSYCH,schizophrenia; body fat; weight gain,Chinese,Y,1,2003
+OTHER,systolic blood pressure,Chinese,Y,1,2002
+IMMUNE,atopy,Italian,Y,1,1999
+IMMUNE,multiple sclerosis,Jewish,Y,1,2003
+IMMUNE,inflammatory bowel disease,Italian,Y,1,2002
+OTHER,preterm delivery,African American,Y,1,2002
+IMMUNE,Hyperresponsiveness,Italian,Y,1,1998
+INFECTION,severe acute respiratory syndrome,Vietnamese,Y,1,2005
+IMMUNE,"diabetes, type 1",French,Y,1,1999
+IMMUNE,Asthma,U.S. Caucasians,Y,1,2000
+METABOLIC,"diabetes, type 2",Caucasian of British/European descent,Y,1,2002
+OTHER,"lipids; blood pressure; atherosclerosis, carotid",Finnish,Y,1,2001
+CHEMDEPENDENCY,alcohol abuse,Swedish,Y,1,2004
+IMMUNE,"malaria, cerebral",Thai,Y,1,2001
+CARDIOVASCULAR,"atherosclerosis, coronary",caucasians of German nationality /inhabitants of the Rhein-Mainz area.,Y,1,2004
+CARDIOVASCULAR,"atherosclerosis, coronary",Japanese,Y,1,2003
+METABOLIC,lipids; height,French,Y,1,2003
+AGING,cerebral aging,over 70 non-dememtia,Y,1,2003
+NEUROLOGICAL,Alzheimer's Disease,UK Caucasian,Y,1,1996
+IMMUNE,Rheumatoid Arthritis,white multiplex families from throughout the United States,Y,1,2004
+IMMUNE,multiple sclerosis,Italian,Y,1,2002
+METABOLIC,"diabetes, type 2; cholesterol, LDL; glucose tolerance; blood pressure, arterial; glycosylated hemoglobin A1",Finnish,Y,1,2005
+VISION,X linked juvenile retinoschisis,Italian,Y,1,2003
+IMMUNE,atopy-susceptibility,Hutterite,Y,1,2003
+METABOLIC,"lipoprotein, LDL",Japanese,Y,1,2004
+CHEMDEPENDENCY,alcohol withdrawl seizure and delirium tremens,alcohol-dependant patients,Y,1,2003
+PSYCH,"depressive disorder, major",Japanese,Y,1,2002
+METABOLIC,diabetes mellitus,Moscow,Y,1,2002
+CANCER,prostate cancer,African-American and Hispanic men in Los Angeles,Y,1,1999
+METABOLIC,obesity,Tunisian,Y,1,2001
+METABOLIC,"diabetes, type 2",Indian,Y,1,2005
+CARDIOVASCULAR,acute myocardial infarction,young indian asian,Y,1,2003
+CARDIOVASCULAR,"stroke, ischemic",Chinese,Y,1,2005
+OTHER,thyroid-associated ophthalmopathy,Japanese,Y,1,2000
+CANCER,endometrial cancer,Korean,Y,1,2004
+IMMUNE,Sjogren's syndrome,Japanese,Y,1,2005
+METABOLIC,leptin levels,Spanish,Y,1,2004
+METABOLIC,"diabetes, type 2; metabolic syndrome",Chinese,Y,1,2005
+METABOLIC,nephrolithiasis,hypercalciuric and nonhypercalciuric nephrolithiasis patients,Y,1,1999
+CANCER,head and neck cancer,Korean,Y,1,2004
+PSYCH,Schizophrenia,French Caucasian,Y,1,2000
+PSYCH,obsessive compulsive disorder,Afrikaner,Y,1,2001
+PHARMACOGENOMIC,cyclosporine pharmacokinetics,African American,Y,1,2004
+CARDIOVASCULAR,hypertension; autonomic nervous system dysfunction,Japanese,Y,1,2004
+IMMUNE,antineutrophil cytoplasmic antibody; (ANCA)-associated vasculitis,Japanese,Y,1,2003
+METABOLIC,Type 2 diabtes,Native Americans and Caucasians,Y,1,2003
+NEUROLOGICAL,primary progressive aphasia,Pts at the Northwestern University AD Center,Y,1,2003
+CARDIOVASCULAR,smoking,Japanese,Y,1,2003
+CARDIOVASCULAR,coronary artery disease,Caucasian patients of the GENICA study,Y,1,2003
+RENAL,"kidney failure, chronic",Japanese,Y,1,2002
+RENAL,polycystic kidney disease,Korean,Y,1,2002
+CARDIOVASCULAR,respiratory-distress syndrome,Finnish,Y,1,2000
+IMMUNE,"diabetes, type 1",ethnically and geographically matched patients and controls,Y,1,2004
+IMMUNE,psoriatic arthritis,Jewish,Y,1,2001
+VISION,intraocular pressure,Japanese,Y,1,2004
+CARDIOVASCULAR,Cardiovascular,1810 type 2 diabetics from Dundee,Y,1,2005
+IMMUNE,Autoimmune hepatitis type 1,western India,Y,1,2005
+PHARMACOGENOMIC,antiemetic response,Turkish,Y,1,2005
+METABOLIC,"aldosterone blood pressure, arterial kidney function left ventricular function",Caucasian,Y,1,2007
+IMMUNE,"diabetes, type 1",Caucasian;German,Y,1,2006
+METABOLIC,body weight height limb length,European,Y,1,2006
+NEUROLOGICAL,Alzheimer's disease,European,Y,1,2006
+NEUROLOGICAL,photoparoxysmal response,German,Y,1,2006
+METABOLIC,catalase activity,African American;Caucasian,Y,1,2006
+METABOLIC,"body mass diabetes, type 2 triglycerides",Korean,Y,1,2006
+IMMUNE,asthma atopy,Danish,Y,1,2007
+IMMUNE,multiple sclerosis rheumatoid arthritis,Spanish;European,Y,1,2006
+IMMUNE,lupus erythematosus,Chinese;Caucasian,Y,1,2007
+IMMUNE,"sclerosis, systemic",Italian,Y,1,2007
+PHARMACOGENOMIC,nevaprine pharmacokinetics,Caucasian;European,Y,1,2007
+CARDIOVASCULAR,"blood pressure, arterial kidney function",Indian,Y,1,2006
+CHEMDEPENDENCY,nicotine dependence smoking behavior,European,Y,1,2006
+IMMUNE,inflammatory bowel disease,Scottish,Y,1,2007
+PSYCH,cognitive function,Caucasian,Y,1,2006
+CANCER,lung cancer,Thai;Asian,Y,1,2006
+IMMUNE,rheumatoid arthritis,Japanese;Caucasian,Y,1,2006
+METABOLIC,G6PD deficiency,Saudi,Y,1,2001
+METABOLIC,body mass obesity triglycerides,Caucasian,Y,1,2006
+CARDIOVASCULAR,"stroke, ischemic",Moscow,Y,1,2006
+RENAL,kidney transplant,Caucasian,Y,1,2007
+IMMUNE,celiac disease,Caucasian;French,Y,1,2006
+PHARMACOGENOMIC,asthma,non-Hispanic,Y,1,2007
+CANCER,breast cancer,Tunisian,Y,1,2005
+CANCER,C-peptide insulin-like growth factor sex hormones,non-Hispanic,Y,1,2006
+METABOLIC,"cholesterol, LDL",Caucasian,Y,1,2007
+NEUROLOGICAL,Parkinson's disease,Asian,Y,1,2006
+CHEMDEPENDENCY,smoking behavior,Caucasian,Y,1,2006
+CANCER,melanoma,Caucasian,Y,1,2006
+PSYCH,schizophrenia,Irish,Y,1,2006
+CARDIOVASCULAR,hypertension,Singapore,Y,1,2006
+IMMUNE,inflammatory bowel disease,Irish,Y,1,2006
+CHEMDEPENDENCY,heroin abuse,Caucasian;European,Y,1,2007
+IMMUNE,anti-cyclic citrullinated peptide antibodies rheumatoid arthritis,Korean,Y,1,2007
+CANCER,lung cancer,German;Italian,Y,1,2006
+METABOLIC,abdominal fat fatty acid glucose tolerance insulin lipids prostaglandin,Korean,Y,1,2006
+NORMALVARIATION,physical performance,Russian,Y,1,2006
+CARDIOVASCULAR,"atherosclerosis, coronary",European;Indian,Y,1,2005
+CARDIOVASCULAR,"atherosclerosis, diabetic",Caucasian,Y,1,2006
+IMMUNE,rheumatoid arthritis,German,Y,1,2006
+CANCER,head and neck cancer mutagen sensitivity,non-Hispanic,Y,1,2006
+RENAL,"nephropathy, IgA",European;Asian,Y,1,2006
+CANCER,prostate cancer,non-Hispanic,Y,1,2007
+PSYCH,suicide,European;Asian,Y,1,2006
+NEUROLOGICAL,Parkinson's disease,Japanese;Caucasian,Y,1,2006
+CANCER,prostate cancer,Caucasian;French,Y,1,2007
+METABOLIC,"diabetes, type 2",Danish;Finnish;Icelandic,Y,1,2006
+METABOLIC,"diabetes, type 2",Spanish;European;Mexican;Native American;Asian,Y,1,2007
+IMMUNE,Graves' disease,Thai,Y,1,2006
+PSYCH,personality traits,Caucasian,Y,1,2006
+METABOLIC,testosterone,Swedish;Caucasian; Korean,Y,1,2005
+CANCER,ovarian cancer,Caucasian;German,Y,1,2007
+IMMUNE,chronic GVHD,Southeast Brazilian population,Y,1,2007
+NEUROLOGICAL,epilpsy,Caucasians,Y,1,2004
+METABOLIC,"diabetes, type 2",Swedish,Y,1,2004
+CARDIOVASCULAR,carotid wall thickening,healthy male,Y,1,1996
+CARDIOVASCULAR,brain hemorrhage,Chinese,Y,1,2004
+OTHER,PEF,American,Y,1,2000
+CARDIOVASCULAR,coronary heart disease among Japanese.,Japanese,Y,1,1997
+METABOLIC,body mass; glucose,West African,Y,1,2005
+CARDIOVASCULAR,myocardial ischemia,Russian,Y,1,2003
+CANCER,bladder cancer,Chinese,Y,1,2002
+RENAL,nephropathy in other diseases,Danish,Y,1,2004
+OTHER,alcohol liver disease,Japanese,Y,1,1988
+CARDIOVASCULAR,myocardial infarction and stroke,Icelandic and UK,Y,1,2004
+CARDIOVASCULAR,"stroke, ischemic; stroke, hemorrhagic",Chinese,Y,1,2003
+METABOLIC,familial defective apolipoprotein B-100 in a Chinese man,Chinese,Y,1,1993
+AGING,longevity,elderly,Y,1,2002
+CARDIOVASCULAR,myocardial infarct,South African,Y,1,2004
+CANCER,"Breast Cancer, male",Australian,Y,1,2004
+METABOLIC,bone mineral density,Italian,Y,1,1998
+METABOLIC,body mass; hemoglobin A(1c),Japanese,Y,1,2003
+CANCER,esophageal cancer; cardiac cancer,Chinese,Y,1,2003
+IMMUNE,rheumatoid arthritis; Crohn's disease; systemic lupus erythematosus,Japanese,Y,1,2002
+IMMUNE,lupus erythematosus,Spanish,Y,1,2004
+OTHER,cholesteryl ester transfer protein plasma lipid levels,Spanish,Y,1,2000
+METABOLIC,"cholesterol; cholesterol, LDL; carotid atherosclerosis",Japanese,Y,1,2005
+OTHER,bone mass,Finnish,Y,1,2003
+METABOLIC,"diabetes, type 2",Pima Indians,Y,1,2003
+IMMUNE,"diabetes, type 1",South Moroccan,Y,1,2003
+METABOLIC,diabetes mellitus,Chinese,Y,1,2002
+IMMUNE,"Graves' disease; ophthalmopathy, Graves'",Polish,Y,1,2004
+IMMUNE,"sclerosis, systemic",African American,Y,1,2004
+CARDIOVASCULAR,hypertension,Kazakh population of Xinjiang Barlikun area.,Y,1,2004
+IMMUNE,spondyloarthropathies,Japanese,Y,1,2004
+CANCER,CYP1A1 genetic polymorphisms,Japanese,Y,1,2002
+VISION,"glaucoma, primary open-angle",French,Y,1,2005
+OTHER,iron stores,Thai,Y,1,2002
+METABOLIC,amitriptyline metabolism,Japanese,Y,1,2002
+IMMUNE,Crohn's disease and IBD,European,Y,1,2004
+NEUROLOGICAL,tardive dyskinesia,Korean,Y,1,2002
+PSYCH,novelty seeking,African Americans,Y,1,2002
+CANCER,prostate cancer,"Population-based, King Co., WA",Y,1,2003
+OTHER,COPD severity,Japanese,Y,1,2000
+CARDIOVASCULAR,coronary artery disease,Finnish,Y,1,2000
+OTHER,subconjunctival hemorrhage,Caucasian patients,Y,1,2004
+HEMATOLOGICAL,hemophilia,Japanese,Y,1,2000
+METABOLIC,body fat,African American,Y,1,2004
+IMMUNE,asthma; allergic rhinitis,Polish,Y,1,2004
+IMMUNE,arthritis,Japanese,Y,1,2002
+NEUROLOGICAL,Parkinson's disease,Greek,Y,1,2005
+PSYCH,depression,healthy medical students,Y,1,2003
+METABOLIC,"diabetes, type 2",Canadian,Y,1,2001
+UNKNOWN,solar keratosis,Australian,Y,1,2002
+VISION,retinitis pigmentosa,Japanese,Y,1,2004
+AGING,longevity,Sicilian,Y,1,2002
+IMMUNE,alopecia areata,Chinese,Y,1,2005
+CANCER,"leukemia, myeloid",Chinese,Y,1,2003
+IMMUNE,"diabetes, type 1","Mixageneted population (caucasian, african, amerindian)",Y,1,2003
+IMMUNE,"diabetes, type 1",Dutch,Y,1,2001
+CARDIOVASCULAR,hypertension,Indian,Y,1,2004
+PSYCH,obsessive-compulsive disorder,Mexican,Y,1,2004
+PSYCH,schizophrenia,Turkish,Y,1,2003
+METABOLIC,"diabetes, type 2",Spanish,Y,1,2002
+CANCER,breast cancer,Iranian,Y,1,2005
+DEVELOPMENTAL,small for gestational age,Swedish,Y,1,2003
+CANCER,gastric carcinoma,Taiwanese Chinese,Y,1,1991
+IMMUNE,asthma; atopy,Dutch,Y,1,2001
+IMMUNE,systemic sclerosis,Japanese,Y,1,2003
+CANCER,gastric cancer,Caucasian,Y,1,2000
+INFECTION,Severe sepsis/nonsurvival,93 severe sepsis,Y,1,1999
+IMMUNE,Atopic asthma,Japanese,Y,1,2001
+IMMUNE,Allergic asthma,Swedish Caucasians,Y,1,2004
+AGING,osteoarthritis,Caucasian,Y,1,2004
+METABOLIC,insulin response to oral glucose,caucasian,Y,1,2004
+IMMUNE,"diabetes, type 1",Italian,Y,1,2003
+METABOLIC,age-related skeletal disorders,Japanese post menopausal women,Y,1,2002
+CARDIOVASCULAR,"atherosclerosis, coronary; lipid metabolism disorders",Chinese,Y,1,2004
+METABOLIC,"diabetes, type 2; insulin; leptin",Chinese,Y,1,2004
+METABOLIC,HDL-cholesterol,Japanese,Y,1,2003
+METABOLIC,Hypertriglyceridemia,Zagreb. Croatia,Y,1,2001
+IMMUNE,chronic immune thrombocytopenic purpura.,Japanese,Y,1,2004
+CARDIOVASCULAR,coronary artery disease,American,Y,1,2004
+OTHER,Multiple endocrine neoplasia type 1,chinese,Y,1,2003
+CANCER,breast cancer; colorectal cancer; esophageal cancer; stomach cancer,Chinese,Y,1,2004
+CANCER,lung squamous cell carcinoma,Chinese,Y,1,2002
+CANCER,colorectal cancer,Jewish,Y,1,2003
+CARDIOVASCULAR,cardiomyopathy,Japanese,Y,1,2005
+IMMUNE,"diabetes, type 1",caucasians,Y,1,2003
+RENAL,"purpura, Henoch-Schonlein",Spanish,Y,1,2005
+METABOLIC,"cholesterol; cholesterol, HDL; lipoprotein, LDL; triglycerides; hypertension",Swedish,Y,1,2004
+CHEMDEPENDENCY,substance abuse,European,Y,1,2003
+INFECTION,leprosy,"Vietnamese, Brazilian",Y,1,2004
+CARDIOVASCULAR,coronary artery stenosis,Chinese,Y,1,2004
+METABOLIC,"cholesterol; cholesterol, HDL; cholesterol, LDL; hypertension; lipoproteins; obesity",Chinese,Y,1,2004
+NEUROLOGICAL,Parkinson's disease,Swedish,Y,1,2002
+NORMALVARIATION,paraoxonase,Chinese,Y,1,2004
+METABOLIC,insulin,Indian,Y,1,2003
+CANCER,human long-term memory,Swiss,Y,1,2005
+IMMUNE,"diabetes, type 1",south Chinese Han,Y,1,2001
+IMMUNE,Rheumatoid arthritis,USA,Y,1,2004
+INFECTION,HTLV-1 associated myelopathy/tropical spastic; paraparesis,Japanese,Y,1,2003
+METABOLIC,"body mass; cholesterol, HDL; triglycerides; diabetes, type 2; cholesterol, LDL; hypertension; atherosclerosis",German,Y,1,2005
+IMMUNE,Asthma. BHR. Total IgE. SPT,Italian,Y,1,2001
+RENAL,nephropathy in other diseases,Chinese,Y,1,2004
+IMMUNE,"diabetes, type 1",Janpanese,Y,1,2002
+UNKNOWN,dopamine transporter availability,European American,Y,1,2005
+PSYCH,"psychosis, alcoholic",Russian,Y,1,2002
+CANCER,breast cancer,African American,Y,1,2004
+METABOLIC,serum androgen concentrations,British men,Y,1,2001
+CANCER,colorectal cancer,Australian,Y,1,2002
+METABOLIC,homocysteine; vitamin B12; holotranscobalamin; methylmalonic acid,Primarily Caucasian,Y,1,2002
+CARDIOVASCULAR,blood pressure,Japanese,Y,1,2002
+CARDIOVASCULAR,"brain hemorrhage; stroke; stroke, lacunar",Chinese,Y,1,2004
+OTHER,"deafness, nonsyndromic",Caucasian,Y,1,2002
+METABOLIC,insulin resistance in obesity,morbidly obese,Y,1,2002
+CARDIOVASCULAR,left ventricular hypertrophy,Swedish,Y,1,2004
+CANCER,endometrial cancer,Japanese,Y,1,2005
+OTHER,congenital and subclinical hypothyroidism,Caucasian,Y,1,2005
+METABOLIC,Obesity,African Americans. Asian. and Caucasian,Y,1,2000
+CANCER,prostate cancer,Caucasian subjects who had undergone radial prostatectomy between 1984 and 1992,Y,1,2003
+OTHER,BsmI vitamin D receptor gene polymorphism,Japanese,Y,1,1999
+AGING,fat-free mass and sarcopenia,older caucasian men,Y,1,2004
+NEUROLOGICAL,Alzheimer's Disease,Northern Ireland Caucasian,Y,1,1999
+PSYCH,schizophrenia,389 US and South African families,Y,1,2004
+PSYCH,affective psychoses,Chinese,Y,1,2003
+PSYCH,bipolar affective disorder.,Chinese,Y,1,1997
+OTHER,aflatoxin-albumin,Gambian,Y,1,2004
+IMMUNE,Mite-sensitive asthma,Venezuelan,Y,1,1999
+INFECTION,echinococcosis,Chinese,Y,1,2000
+CARDIOVASCULAR,subclinical carotid atherosclerosis,australian community population,Y,1,2003
+NEUROLOGICAL,Parkinson's disease,Terre,Y,1,2004
+DEVELOPMENTAL,neural tube defects,UK,Y,1,2004
+RENAL,Diabetic Retinopathy,Caucasian,Y,1,2002
+RENAL,kidney dysfunction,Chinese,Y,1,2003
+METABOLIC,serum lipid levels,Japanese,Y,1,2002
+METABOLIC,cystinuria,Swedish,Y,1,2003
+IMMUNE,autoimmune myasthenia gravis,South African and caucasian,Y,1,1996
+OTHER,systemic sclerosis,Korean,Y,1,2001
+METABOLIC,glucose tolerance,Japanese,Y,1,2005
+NEUROLOGICAL,dementia,Chinese,Y,1,2006
+METABOLIC,Obesity and insulin response,UK,Y,1,2006
+IMMUNE,Crohn's disease ulcerative colitis,Caucasian,Y,1,2006
+NEUROLOGICAL,epilepsy,Chinese;Caucasian,Y,1,2007
+IMMUNE,"sclerosis, systemic",African American;Caucasian,Y,1,2007
+METABOLIC,osteoarthritis,Japanese;Chinese;European;Asian,Y,1,2007
+OTHER,hearing loss/deafness,Polish,Y,1,2007
+IMMUNE,IgE response IgG,Caucasian,Y,1,2006
+VISION,macular degeneration,Caucasian,Y,1,2007
+METABOLIC,"diabetes, type 2 kidney failure, chronic",Caucasian;European,Y,1,2007
+CARDIOVASCULAR,C-reactive protein,NHANES III; Mexican-Americans; non-Hispanic white; non-Hispanic black,Y,1,2006
+PHARMACOGENOMIC,phenobarbital pharmacokinetics phenytoin pharmacokinetics,Asian,Y,1,2006
+PHARMACOGENOMIC,amlodipine pharmacokinetics,Korean,Y,1,2006
+IMMUNE,asthma atopy,Chinese;Caucasian,Y,1,2006
+PSYCH,bipolar disorder schizophrenia,Polish,Y,1,2006
+PHARMACOGENOMIC,"depressive disorder, major",Korean,Y,1,2007
+PHARMACOGENOMIC,lung cancer,Asian,Y,1,2006
+CANCER,head and neck cancer,non-Hispanic,Y,1,2006
+IMMUNE,"Addison's disease diabetes, type 1 Graves' disease rheumatoid arthritis",Japanese;Caucasian;New Zealand,Y,1,2007
+CHEMDEPENDENCY,alcohol withdrawal alcoholism,Korean,Y,1,2006
+METABOLIC,osteoarthritis,Asian,Y,1,2007
+METABOLIC,osteonecrosis,Korean,Y,1,2007
+METABOLIC,cholesterol metabolic syndrome triglycerides,Finnish;Mexican,Y,1,2006
+IMMUNE,Crohn's disease ulcerative colitis,Korean,Y,1,2007
+INFECTION,hepatitis B,Vietnamese,Y,1,2006
+METABOLIC,"diabetes, type 2 insulin",Mexican,Y,1,2006
+IMMUNE,"sclerosis, systemic",Caucasian,Y,1,2006
+METABOLIC,body mass metabolic syndrome,Spanish;Caucasian; Indian;Pima Indians,Y,1,2006
+HEMATOLOGICAL,"thrombocytopenic purpura, iimmune",Korean,Y,1,1997
+PHARMACOGENOMIC,"sulfonylurea failure, secondary",Caucasian,Y,1,2006
+CARDIOVASCULAR,heart disease risk factors hypertension leptin obesity,Brazilian,Y,1,2006
+NEUROLOGICAL,Parkinson's disease,Spanish;Spanish;European,Y,1,2006
+PSYCH,bipolar disorder,Canadian;Italian,Y,1,2006
+METABOLIC,glucose tolerance insulin,Finnish,Y,1,2006
+CANCER,brain cancer,Caucasian,Y,1,2006
+RENAL,"nephropathy, diabetic",Swedish;Caucasian; Finnish,Y,1,2006
+CANCER,breast cancer endometriosis uterine fibroids,Indian;Asian,Y,1,2007
+PHARMACOGENOMIC,"dyskinesias, levodopa-induced",Caucasian Parkinson Disease patients,Y,1,2006
+RENAL,glomerulonephritis,Moscow;Russian,Y,1,2007
+PHARMACOGENOMIC,"depressive disorder, major",Mexican;Mexican American,Y,1,2006
+METABOLIC,insulin,Chinese;Indian;Singapore;Asian,Y,1,2006
+METABOLIC,"body mass cholesterol, LDL glucose insulin",Chinese;Korean,Y,1,2006
+METABOLIC,"diabetes, type 2 glucose insulin obesity",French,Y,1,2006
+IMMUNE,"diabetes, type 1 juvenile arthritis",Caucasian;Asian,Y,1,2006
+IMMUNE,"diabetes, type 1 diabetes, type 2 diabetic nephropathy retinopathy, diabetic",Scandinavian,Y,1,2006
+METABOLIC,obesity,Chinese;European;Korean,Y,1,2006
+CANCER,breast cancer,Hispanic Caucasian;non-Hispanic,Y,1,2006
+PSYCH,personality traits,Mexican,Y,1,2006
+NEUROLOGICAL,Parkinson's disease,African American;Indian,Y,1,2007
+METABOLIC,"diabetes, type 2",Danish;European;Icelandic,Y,1,2006
+METABOLIC,"diabetes, type 2",Moroccan,Y,1,2007
+OTHER,cystic fibrosis,European,Y,1,2006
+METABOLIC,birth weight,European,Y,1,2007
+METABOLIC,antilipolytic insulin sensitivity,Caucasian,Y,1,2006
+AGING,longevity,Italian,Y,1,2007
+IMMUNE,asthma eczema,"Scottish, Irish and Danish",Y,1,2006
+PHARMACOGENOMIC,"digoxin, serum concentration",Japanese,Y,1,2003
+METABOLIC,triglycerides; insulin; cardiovascular disease risk,Korean,Y,1,2006
+NEUROLOGICAL,Alzheimer's Disease,UK Causcasion,Y,1,1999
+AGING,Dominant Progressive Deafness,four families,Y,1,2003
+CARDIOVASCULAR,cardiovascular disease; bilirubin,Chinese,Y,1,2004
+METABOLIC,ANS function,Japanese,Y,1,2003
+IMMUNE,Decreased airway responsiveness,Australian,Y,1,1999
+METABOLIC,"body mass; cholesterol; diabetes, type 2; blood pressure",Chinese,Y,1,2000
+CARDIOVASCULAR,Coronary Heart Disease,Native Gran Canaria Island habitants (Spain) ??,Y,1,2001
+CARDIOVASCULAR,carotid intimal-medial thickening,community-based,Y,1,2001
+CHEMDEPENDENCY,alcoholism,mixed-ancestry,Y,1,2001
+CARDIOVASCULAR,carotid atherosclerosis,Finnish,Y,1,2005
+METABOLIC,"cholesterol, LDL; C-reactive protein; triacylglycerol",Korean,Y,1,2004
+CARDIOVASCULAR,cardiovascular,caucasian,Y,1,2001
+OTHER,persistent vegetative state,Chinese,Y,1,2002
+IMMUNE,"retinopathy, diabetic; nephropathy in other diseases",Japanese,Y,1,2003
+OTHER,late-onset AD,clinic- and community-based,Y,1,1998
+METABOLIC,bone density; fractures,Spanish,Y,1,2005
+METABOLIC,triglycerides; obesity,Swedish,Y,1,2004
+CANCER,colorectal cancer,Greek,Y,1,2004
+IMMUNE,Sjogren's syndrome,Caucasian,Y,1,2002
+INFECTION,SARS infection,Hong Kong,Y,1,2006
+IMMUNE,Graves' disease; Hashimoto's thyroiditis,Korean,Y,1,2003
+OTHER,macroangiopathy,Japanese,Y,1,2001
+OTHER,cystic fibrosis,Russian,Y,1,2003
+OTHER,ARDS mortality,112 ARDS (Caucasian),Y,1,2002
+CARDIOVASCULAR,C-reactive protein,African American,Y,1,2002
+IMMUNE,Graves' disease,white UK born,Y,1,2003
+IMMUNE,Graves' disease,Iranian,Y,1,2003
+REPRODUCTION,"pregnancy loss, recurrent",Chinese,Y,1,2005
+IMMUNE,rheumatoid arthritis; celiac disease,Dutch,Y,1,2005
+METABOLIC,bone density; height,Danish,Y,1,2004
+CANCER,esophageal carcinoma,north Chinese,Y,1,2003
+VISION,"glaucoma, primary congenital",Indian,Y,1,2004
+CHEMDEPENDENCY,smoking behavior,Ghanaian,Y,1,2005
+METABOLIC,plasma lipoproteins,Canadian,Y,1,2001
+OTHER,Narcolepsy-cataplexy syndrome,caucasian,Y,1,1999
+CANCER,lung cancer,"Mexican, African American",Y,1,2001
+OTHER,radiographic osteoarthritis of the knee,elderly,Y,1,2003
+HEMATOLOGICAL,factor V Leiden,thrombotic family,Y,1,1997
+OTHER,Haemophilia,Chinese,Y,1,1999
+DEVELOPMENTAL,cleft lip with cleft palate; cleft lip without cleft palate,Japanese,Y,1,2004
+METABOLIC,blood pressure,Caucasian,Y,1,2003
+INFECTION,ovalocytosis and malaria susceptibility,"Wosera, Papua New Guinea (Melanesians)",Y,1,2001
+METABOLIC,Colon Cancer,residents of North Carolina,Y,1,2003
+IMMUNE,rheumatoid arthritis,Mexican,Y,1,2005
+INFECTION,H. pylori infection,Vietnamese,Y,1,2004
+IMMUNE,"glomerulonephritis, Hepatitis B virus-associated",Korean,Y,1,2003
+INFECTION,typhoid fever,Vietnamese,Y,1,2001
+IMMUNE,"thyroiditis, chronic lymphocytic",Japanese,Y,1,2003
+CANCER,breast cancer,Chinese women in Singapore,Y,1,2003
+CHEMDEPENDENCY,alcohol dependence,Taiwanese,Y,1,2002
+PSYCH,"depressive disorder, major",Korean,Y,1,2004
+METABOLIC,"cholesterol; diabetes, type 2",Chinese,Y,1,2001
+IMMUNE,reactive arthritis,Finnish,Y,1,2001
+IMMUNE,Atopic asthma,Dutch,Y,1,1999
+IMMUNE,asthma; atopy,Chinese,Y,1,2001
+IMMUNE,periodontal disease,unknown,Y,1,2003
+CANCER,chronic atrophic gastritis and gastric carcinoma,North Portugal,Y,1,2003
+INFECTION,Severe sepsis,78 sepsis pts,Y,1,2002
+IMMUNE,Hyper-IgE syndrome. severe eczema. atopy,U.S.,Y,1,1997
+METABOLIC,"diabetes, type 2; glucose tolerance; obesity",Danish,Y,1,2004
+METABOLIC,hyperlipidemia,Japanese,Y,1,2001
+METABOLIC,age-related skeletal disorders,Japanese postmenopausal women,Y,1,2002
+CARDIOVASCULAR,coronary artery calcium,type 1 diabetes,Y,1,2002
+METABOLIC,dyslipidemia and insulin resistance,Japanese,Y,1,2002
+METABOLIC,insulin resistance,Mexican American,Y,1,2004
+METABOLIC,Gestational Diabetes,Caucasian,Y,1,2004
+IMMUNE,autoimmune inflammatory disease,Swedish,Y,1,2005
+IMMUNE,chronic periodontitis,Brazilian,Y,1,2003
+CARDIOVASCULAR,coronary artery disease,French-Canadians,Y,1,2001
+CANCER,prostate cancer,159 families affected with HPC. European and African American descent,Y,1,2002
+INFECTION,"sepsis; lung injury, acute","European American, African American",Y,1,2006
+REPRODUCTION,Endometriosis,United Kingdom,Y,1,2001
+IMMUNE,"beta-cell function; diabetes, type 1",Japanese,Y,1,2002
+IMMUNE,EO,German. Swedish,Y,1,2001
+METABOLIC,"diabetes, type 2; glucose tolerance",Swedish,Y,1,2005
+VISION,primary open-angle glaucoma,Southern Chinese,Y,1,2003
+METABOLIC,"cholesterol; cholesterol, LDL",Japanese,Y,1,2004
+CARDIOVASCULAR,"atherosclerosis, coronary",Indian,Y,1,2005
+NEUROLOGICAL,Charcot-Marie-Tooth disease type 1A,Sardinian,Y,1,1997
+METABOLIC,plasma lipoproteins,Canadian aboriginal,Y,1,2000
+CANCER,childhood brain tumor,Mainly non-Hispanic Caucasian,Y,1,2005
+METABOLIC,"diabetes, type 2; obesity",Chinese,Y,1,2004
+NEUROLOGICAL,Jakob-Creutzfeldt disease,Japanese,Y,1,2004
+IMMUNE,psoriatic arthritis,Canadian,Y,1,2005
+IMMUNE,systemic lupus erythematosus,North American white individuals,Y,1,2004
+METABOLIC,"diabetes, type 2; obesity",Danish,Y,1,2005
+CARDIOVASCULAR,"diabetes, type 2; hypertension",Chinese,Y,1,2003
+METABOLIC,plasma lipid levels and body mass index,white,Y,1,1999
+METABOLIC,plasmatic PAI-1 activity,Italian,Y,1,1998
+IMMUNE,chronic obstructive pulmonary disease/COPD,Indian,Y,1,2005
+PSYCH,Anxiety traits,Japanese,Y,1,1999
+PSYCH,impulse control disorder,Korean,Y,1,2003
+METABOLIC,"cholesterol; diabetes, type 2; hypertension; nephropathy, diabetic; albuminuria",Korean,Y,1,2006
+DEVELOPMENTAL,micropenis,Japanese,Y,1,2003
+CANCER,stomach cancer,Italians,Y,1,2005
+METABOLIC,iron load,African American,Y,1,2001
+OTHER,idiopathic pulmonary fibrosis,white subjects from Spain,Y,1,2003
+IMMUNE,asthma; atopy,Korean,Y,1,2003
+IMMUNE,Asthma,U.S.,Y,1,2002
+IMMUNE,"diabetes, type 1",Moroccan,Y,1,2003
+METABOLIC,"diabetes, type 2",Spanish / Caucassian,Y,1,2003
+PSYCH,schizophrenia,Han Chinese,Y,1,2001
+PSYCH,schizophrenia; bipolar disorder,Scottish/UK,Y,1,2005
+METABOLIC,Body Mass Index,South Indian,Y,1,1999
+IMMUNE,"diabetes, type 1",Dalmatian population of South Croatia,Y,1,2003
+CANCER,breast cancer risk,caucasian,Y,1,2001
+METABOLIC,lead toxicity,Caucasian,Y,1,2003
+OTHER,keratoconus,Italian,Y,1,2005
+RENAL,diabetic retinopathy,adolescents,Y,1,1999
+NEUROLOGICAL,Alzheimer's disease; Parkinson's disease; multiple system atrophy,Japanese,Y,1,2005
+CHEMDEPENDENCY,alcoholism,"population based sample, caucasian males",Y,1,2000
+CANCER,lung cancer; breast cancer; liver cancer; oral cancer; thyroid cancer; cervical cancer,Taiwanese,Y,1,2003
+IMMUNE,SPT (HDM),Venezuelan,Y,1,1999
+METABOLIC,"diabetes, type 2",Ashkenazi,Y,1,2004
+AGING,Longevity,Finnish,Y,1,2005
+IMMUNE,Rheumatoid arthritis,Caucasian patients,Y,1,2002
+CARDIOVASCULAR,"atherosclerosis, coronary; homocysteine",French,Y,1,2005
+CARDIOVASCULAR,coronary atherosclerotic heart disease in Chinese,Chinese,Y,1,2002
+IMMUNE,Behcet's disease; vasculitis,Korean,Y,1,2003
+CARDIOVASCULAR,cardiac growth,caucasian army recruits and MONICA Augsburg,Y,1,2002
+REPRODUCTION,azoospermia,Chinese,Y,1,2005
+METABOLIC,plasma lipoprotein(a) levels,Japanese,Y,1,1993
+CARDIOVASCULAR,aortoarteritis,Chinese,Y,1,2002
+NEUROLOGICAL,Parkinson's disease,Irish,Y,1,2003
+CARDIOVASCULAR,"stroke, myocardial infarction",Chinese,Y,1,2006
+OTHER,coal workers' pneumoconiosis (CWP),Coal miners,Y,1,2003
+PHARMACOGENOMIC,epilepsy,Japanese;European,Y,1,2006
+REPRODUCTION,intrahepatic cholestatis of pregnancy,Italian,Y,1,2006
+RENAL,diabetic nephropathy,Mexican,Y,1,2007
+CHEMDEPENDENCY,alcohol abuse,Indian,Y,1,2006
+VISION,"retinopathy, diabetic",Brazilian;Caucasian,Y,1,2006
+REPRODUCTION,"pregnancy loss, recurrent",German,Y,1,2007
+METABOLIC,"diabetes, type 2 obesity",Caucasian,Y,1,2007
+METABOLIC,"diabetes, type 2",Indian;Pima Indians,Y,1,2006
+METABOLIC,weight loss,Caucasian;South African,Y,1,2006
+PHARMACOGENOMIC,hypertension,Caucasian,Y,1,2006
+INFECTION,"hepatitis B, chronic",Korean,Y,1,2006
+DEVELOPMENTAL,neural tube defects,non-Hispanic,Y,1,2007
+INFECTION,HIV,Brazilian,Y,1,2006

@@ -1,0 +1,5 @@
+Education,No. of Applicants,Maximum Balance,Minimum Balance,Average Balance,Total Loan Approval Count,Total Loan Rejection Count,Loan Approval probability
+Primary,678,71188.0,-966.0,1411.5442477876106,64,614,0.0943952802359882
+Secondary,2306,26452.0,-2082.0,1196.8143972246314,245,2061,0.106244579358196
+Tertiary,1350,42045.0,-3313.0,1775.4237037037037,193,1157,0.14296296296296296
+No Particular Education,187,21244.0,-715.0,1701.2459893048128,19,168,0.10160427807486631
