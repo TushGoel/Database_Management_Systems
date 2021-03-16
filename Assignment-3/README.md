@@ -1,1 +1,26 @@
-# Database_Management_Systems
+# PROBLEM DESCRIPTION:
+Let’s explore a very practical and real-world database design problem: implementing a Twitterlike service. Twitter is a fascinating case-study in database design and big data architecture. Originally, twitter was backed by a MySQL database, but scalability issues led them to implement a non-relational (NoSQL) approach using Redis. Over the course of this assignment and the next, we’ll explore the design and implementation challenges that Twitter engineers themselves had to deal with. Let’s go further and introduce some novel features as part of our “Twitter 2.0” initiative. Maybe one of you will develop the next killer app, change the world, and become a billionaire. In this assignment you will start with a high-level description of the Twitter 2.0 service and then you will:
+a) Create a conceptual model using the MySQL Workbench modeling tool
+b) Convert the conceptual model to a logical (relational) model by writing DDL statements.
+c) Write a script to populate each of your resulting tables with your own fake data
+d) Write a set of queries to demonstrate how your database is capable of answering various questions, performing hashtag searches, and doing statistical analysis.
+
+PART A. Conceptional Modeling 
+Use the MySQL workbench to create an ER-Diagram for the following domain description. You don’t have to replicate all features of twitter, just what’s specified below. Twitter is a social network where users post tweets. A tweet is a string of text at most 160 characters long and a timestamp. A tweet is created by one and only one unique user. A user can be a person or an organization. Users have a name “John Doe”, a twitter handle (@JohnDoe) an email address, a password, and an optional short profile (255 characters max). Users follow other users. Tweets may contain hashtags (words proceeded by a ‘#’ symbol) and users can search for tweets that contain specific hashtags. Tweets can be liked by other users. Users can mark themselves as hidden in which case all of their tweets will no longer be visible to
+other users. For Twitter 2.0 we introduce a novel feature: Nests. A nest is a group of twitter users – like a chat room. A nest has a unique and required title. Any user can create a nest. A user can belong to more than one nest and anyone may join any nest. When a user posts a tweet, it is either a broadcast tweet, visible to all followers, or for a single specified nest, visible only to the members of that nest. For example, if I post a broadcast tweet, all my followers see the tweet. On the other hand, if I post a tweet to the “Go Huskies!!” nest, then only members of that nest can see the tweet. When posting a nest tweet, only one nest can be specified. Twitter 2.0 doesn’t support posting to multiple nests at once. If that happens, I only ask for 1 million dollars for giving you the idea. 
+
+PART B. Logical Modeling
+Construct a set of tables with reasonable column names and datatypes that can support Twitter 2.0 functional requirements. For example, you’ll want to get started by having a USER table with a user_id and a TWEET table with a foreign key (user_id) referencing the USER table to identify who wrote the tweet, and so on. Add appropriate primary key and foreign key constraints. All tables should be in at least 3rd normal form! Write a series of INSERT statements that populate each table with perhaps 10-20 rows of your own fake data. The data can be entirely made up, but each record should be unique and the data should be internally consistent. (If you have a tweet with hashtag #NEU then you should have #NEU listed in a hashtag table.) In defining the tables, do not use MySQL’s forward-engineering feature. It is
+cleaner if you define the tables by writing your own CREATE TABLE statements. 
+
+PART C. Database Validation
+Write a SQL query for each of the following questions. 
+a) For each user, count the number of followers. Don’t include followers with a hidden profile. Rank in descending order by the number of followers. Include users that have no followers. Output the user’s handle and the number of followers. 
+b) For one user, list the five most recent tweets by any other user that your chosen user follows. (This is known as the user’s “home timeline.”) Output the handle of the user that posted the tweet, the tweet text, and the tweet timestamp. Do not include nest tweets in your output.
+c) What are the most popular “trending” hashtags by organizations over the last 30 days? Output the hashtag and the number of times it occurred in any tweet in the last 30 days. It doesn’t matter whether the tweet was a broadcast tweet or a private nest tweet. Rank by number of occurrences in descending order.
+d) As a twitter data scientist, you are interested in analyzing nest size distribution. Generate a table that displays the number of nests (N) having (M) members. Sort your results by number of members. For example, suppose 3 nests have 2 members, 1 nest has 10 members, and 6 nests have 5 members. Your output would be:
+N M
+3 2
+6 5
+1 10
+e) Suppose a user wanted to join a nest and is interested in finding groups who post tweets about a particular hashtag, say #NEU. Find the top five nests whose tweets have mentioned the hashtag #NEU the most often. Include the title of the nest and the number of tweets mentioning #NEU. Ignore tweets that were publicly broadcast.
